@@ -231,7 +231,913 @@ gptadslots.push(googletag.defineSlot('/111393242/Ratatype.ua_Adtelligent/typing-
                                 Агов! Увійти
                             </span>
                         </li>
-                        <li><a href="/login/" class="px-3 py-2 block rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary lgxs:whitespace-nowrap">Увійти</a></li>
+                        <li><a href="/login/" class="px-3 py-2 block rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-da   </span>
+     і дізнайся, як швидко ти друкуєш в курсі         <span class="relative inline-block text-left">
+            <a href="javascript:void(0);" class="font-bold dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Українська для початківців</a>
+            <ul class="dropdown-menu p-2 rounded-sm bg-white dark:bg-black shadow-dropdown dark:shadow-dropdown-dark focus:outline-none">
+                                    <li>
+                        <a data-toggle="interface" id="uk_new" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/uk_new/">Українська для початківців</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="uk" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/uk/">Українська розкладка</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="uk_in" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/uk_in/">Доброго вечора, ми з України!</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="uk_mac" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/uk_mac/">Українська для MacOS</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="en" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/en/">English layout</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="es" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/es/">Distribución en español</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="fr" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/fr/">Disposition française</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="ru" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/ru/">русская раскладка</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="en_az" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/en_az/">English layout (azerty)</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="en_dv" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/en_dv/">English layout (dvorak)</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="en_sp" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/en_sp/">English (spelling mistakes)</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="it" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/it/">Layout italiano</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="de" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/de/">Layout deutsche</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="pt_br" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/pt_br/">Layout em português (Brasil)</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="pl" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/pl/">Układ polski</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="tr" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/tr/">Türkçe düzen</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="en_new" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/en_new/">English for Beginners</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="nl" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/nl/">Nederlandse lay-out</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="fr_new" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/fr_new/">Français pour débutants</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="pt_br_new" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/pt_br_new/">Português para iniciantes</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="es_new" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/es_new/">Español para principiantes</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="de_new" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/de_new/">Deutsch für Anfänger</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="it_new" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/it_new/">Italiano per principianti</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="pl_new" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/pl_new/">Polski dla początkujących</a>
+                    </li>
+                                    <li>
+                        <a data-toggle="interface" id="tr_new" class="px-3 py-2 block rounded-sm text-txt-primary dark:text-txt-dark-primary whitespace-nowrap hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary" href="/typing-test/tr_new/">Başlayanlar için Türkçe</a>
+                    </li>
+                            </ul>
+        </span>
+    
+                                </div>
+                            </div>
+                        </section>
+                        <div translate="no" id="root"
+                             data-course="uk_new"
+                             data-text-placeholder="Найбільшими з усіх тварин, що живуть нині на нашій планеті, є кити. Довжина рекордсмена - синього або блакитного кита - становить 25 м, а маса - до 150 т. Як і всі ссавці, кити дихають повітрям за допомогою легенів, годують дитинчат молоком і навіть мають трохи шерсті. Дитинчат синіх китів можна вважати найшвидкорослішими малюками. Щодня довжина їхнього тіла збільшується на 4,5 см, а маса - на 80-100 кг."
+                             data-character=""
+                             class="min-h-[188px] md:min-h-[344px] lg:min-h-[297px]"></div>
+                        <div class="mt-6 md:mt-8">
+                            <div id="div-gpt-ad-typing_test_footer" class="flex items-center justify-center mt-6 md:mt-8 min-h-[300px] md:min-h-[100px]" style=""></div>
+                <script>
+                    googletag.cmd.push(function() { googletag.display("div-gpt-ad-typing_test_footer"); });
+                </script>
+                        </div>
+                    </div>
+                </div>
+            </section>
+                            <div class="hidden lg:block lg:mb-8">
+                    <div class="mt-4">
+                        <a href="/ratatype-plus/" class="btn btn-quinary btn-with-icon w-full max-w-[18.75rem]" id="RemoveAds_btn_test" onclick="document.cookie='eventCategory='+this.id+';path=/';">
+                            <img class="mr-1" src="/static/img/plus.svg" alt="Вимкнути рекламу" width="24" height="24">
+                            Вимкнути рекламу
+                        </a>
+                    </div>
+                </div>
+                    </div>
+    </div>
+    <div class="mx-auto px-4 max-w-screen-container-xl md:px-6">
+        <section class="max-w-container-small mx-auto mb-3 text-center md:mb-4">
+            <h2>Отримай свій сертифікат</h2>
+            <img src="/static/i/retina/certs_uk@2x.webp?v=3" alt="Отримай свій сертифікат" width="790" height="327" class="mx-auto">
+        </section>
+        <section class="mb-6 md:mb-8">
+            <div class="md:flex md:-mx-3">
+                <div class="md:w-3/6 md:px-3">
+                    <p>
+                        Проходь тестування скільки завгодно разів та на <a href="/courses/">будь-якій розкладці</a>. Саме так — незалежно від того, чи є ти прихильником QWERTY, чи віддаєш перевагу DVORAK, для тебе є тест швидкості друку клавіатури від <a href="/">Ratatype</a>.
+                    </p>
+                    <p>
+                        А ще <a href="/high-scores/this-month/">перевір свій рейтинг</a> у таблиці кращих результатів після проходження тесту швидкості друку та спробуй стати переможцем, не потрібно турбуватися про <a href="/learn/common-mistakes-while-learning-touch-typing/">помилки</a>.
+                    </p>
+                </div>
+                <div class="md:w-3/6 md:px-3">
+                    <div class="py-3 px-3 bg-bg-secondary dark:bg-bg-dark-secondary rounded-lg lg:py-4 lg:px-6">
+                        <table class="min-w-full md:text-base-xs lg:text-base">
+                            <thead>
+                            <tr class="text-txt-secondary dark:text-txt-dark-secondary text-small-xs lg:text-small">
+                                <th class="pb-2 w-[56%]">
+                                    <div class="flex items-center">
+                                        <svg class="mr-1" width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4177 2.28165L12.9783 6.14951C13.1192 6.49968 13.4521 6.73815 13.8317 6.76298L18.0379 7.03336C18.929 7.09099 19.2925 8.1947 18.606 8.75852L15.3636 11.4198C15.0702 11.6601 14.9436 12.0466 15.0379 12.411L16.0762 16.4473C16.2969 17.301 15.3466 17.9836 14.5919 17.5129L11.0273 15.2895C10.7052 15.0873 10.2942 15.0873 9.97289 15.2895L6.40839 17.5129C5.65277 17.9836 4.70331 17.301 4.92318 16.4473L5.96238 12.411C6.05571 12.0466 5.93007 11.6601 5.63662 11.4198L2.39428 8.75852C1.70777 8.1947 2.07032 7.09099 2.96145 7.03336L7.16849 6.76298C7.5481 6.73815 7.88104 6.49968 8.02193 6.14951L9.58162 2.28165C9.91277 1.46162 11.0875 1.46162 11.4177 2.28165Z" class="fill-icon-secondary dark:fill-icon-dark-secondary" />
+                                        </svg>
+                                        <span class="font-medium opacity-80">сертифікат</span>
+                                    </div>
+                                </th>
+                                <th class="pb-2 pl-2 w-[22%]">
+                                    <div class="flex items-center justify-end">
+                                        <svg class="mr-1" width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5093 1.00029L5.57388 7.53912C4.86374 8.3239 5.11802 9.63989 6.05932 10.0478L9.66272 11.6074L8.05566 17.6881C7.75792 18.8127 9.07833 19.5885 9.78477 18.7055L15.8718 11.0942C16.5006 10.3074 16.2435 9.08563 15.3623 8.6727L11.5934 6.9097L13.1755 2.13486C13.5398 1.03236 12.2666 0.164394 11.5093 1.00029Z" class="fill-icon-secondary dark:fill-icon-dark-secondary"/>
+                                        </svg>
+                                        <span class="font-medium opacity-80">швидкість</span>
+                                    </div>
+                                </th>
+                                <th class="pb-2 pl-2 w-[22%]">
+                                    <div class="flex items-center justify-end">
+                                        <svg class="mr-1" width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4996 7.60864C9.18117 7.60864 8.10767 8.68119 8.10767 10.0005C8.10767 11.318 9.18117 12.3915 10.4996 12.3915C11.8189 12.3915 12.8914 11.318 12.8914 10.0005C12.8914 8.68119 11.8189 7.60864 10.4996 7.60864ZM10.4995 14.9153C7.78967 14.9153 5.58382 12.7104 5.58382 10.0006C5.58382 7.28978 7.78967 5.08488 10.4995 5.08488C13.2094 5.08488 15.4162 7.28978 15.4162 10.0006C15.4162 12.7104 13.2094 14.9153 10.4995 14.9153ZM10.4995 2C6.08878 2 2.5 5.58878 2.5 10.0005C2.5 14.4112 6.08878 18 10.4995 18C14.9103 18 18.5 14.4112 18.5 10.0005C18.5 5.58878 14.9103 2 10.4995 2Z" class="fill-icon-secondary dark:fill-icon-dark-secondary"/>
+                                        </svg>
+                                        <span class="font-medium opacity-80">точність</span>
+                                    </div>
+                                </th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr class="border-t-2 border-brd-primary dark:border-brd-dark-primary">
+                                <td class="py-2">
+                                    <div class="flex items-center">
+                                        <svg class="mr-1" width="31" height="30" viewBox="0 0 31 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M8 25.1687V27.5695C8 28.1874 8.55486 28.6574 9.16439 28.5559L14.0303 27.7449C13.3949 27.5498 12.7902 27.2251 12.2572 26.7709L10.6678 25.4164L8.58628 25.2503C8.3873 25.2345 8.19165 25.207 8 25.1687Z" class="fill-indigo"/>
+                                            <path d="M16.9701 27.745L21.8356 28.5559C22.4451 28.6574 23 28.1874 23 27.5695V25.1688C22.8085 25.2071 22.613 25.2345 22.4142 25.2503L20.3327 25.4164L18.7433 26.7709C18.2102 27.2252 17.6055 27.5499 16.9701 27.745Z" class="fill-indigo"/>
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1218 2.63188C16.1874 1.8356 14.8131 1.8356 13.8787 2.63188L12.2894 3.9863C11.889 4.32753 11.3911 4.53374 10.8667 4.57559L8.78515 4.7417C7.56138 4.83936 6.5896 5.81114 6.49195 7.03491L6.32584 9.11646C6.28399 9.64088 6.07777 10.1387 5.73655 10.5391L4.38213 12.1285C3.58584 13.0629 3.58584 14.4372 4.38213 15.3716L5.73655 16.9609C6.07777 17.3613 6.28399 17.8591 6.32584 18.3836L6.49195 20.4651C6.5896 21.6889 7.56138 22.6607 8.78515 22.7583L10.8667 22.9244C11.3911 22.9663 11.889 23.1725 12.2894 23.5137L13.8787 24.8681C14.8131 25.6644 16.1874 25.6644 17.1218 24.8681L18.7111 23.5137C19.1115 23.1725 19.6094 22.9663 20.1338 22.9244L22.2154 22.7583C23.4391 22.6607 24.4109 21.6889 24.5086 20.4651L24.6747 18.3836C24.7165 17.8591 24.9227 17.3613 25.264 16.9609L26.6184 15.3716C27.4147 14.4372 27.4147 13.0629 26.6184 12.1285L25.264 10.5391C24.9227 10.1387 24.7165 9.64088 24.6747 9.11646L24.5086 7.03491C24.4109 5.81114 23.4391 4.83936 22.2154 4.7417L20.1338 4.57559C19.6094 4.53374 19.1115 4.32753 18.7111 3.9863L17.1218 2.63188ZM17.3112 11.2522L16.1895 8.50517C15.9521 7.92278 15.1078 7.92278 14.8698 8.50517L13.7487 11.2522C13.6474 11.5009 13.4081 11.6702 13.1353 11.6879L10.1114 11.8799C9.47089 11.9208 9.21029 12.7047 9.70374 13.1051L12.0342 14.9952C12.2452 15.1658 12.3355 15.4403 12.2684 15.6991L11.5214 18.5657C11.3634 19.172 12.0458 19.6568 12.589 19.3225L15.151 17.7435C15.3819 17.5999 15.6773 17.5999 15.9089 17.7435L18.471 19.3225C19.0134 19.6568 19.6965 19.172 19.5378 18.5657L18.7915 15.6991C18.7238 15.4403 18.8148 15.1658 19.0257 14.9952L21.3562 13.1051C21.8496 12.7047 21.5884 11.9208 20.9479 11.8799L17.9246 11.6879C17.6518 11.6702 17.4125 11.5009 17.3112 11.2522Z" class="fill-grey dark:fill-grey-dark-default"/>
+                                        </svg>
+                                        platinum
+                                    </div>
+                                </td>
+                                <td class="py-2 pl-2 text-right whitespace-nowrap">350 зн./хв</td>
+                                <td class="py-2 pl-2 text-right">99.5%</td>
+                            </tr>
+                            <tr class="border-t-2 border-brd-primary dark:border-brd-dark-primary">
+                                <td class="py-2">
+                                    <div class="flex items-center">
+                                        <svg class="mr-1" width="31" height="30" viewBox="0 0 31 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M8 25.1687V27.5695C8 28.1874 8.55486 28.6574 9.16439 28.5559L14.0303 27.7449C13.3949 27.5498 12.7902 27.2251 12.2572 26.7709L10.6678 25.4164L8.58628 25.2503C8.3873 25.2345 8.19165 25.207 8 25.1687Z" class="fill-pink"/>
+                                            <path d="M16.9701 27.745L21.8356 28.5559C22.4451 28.6574 23 28.1874 23 27.5695V25.1688C22.8085 25.2071 22.613 25.2345 22.4142 25.2503L20.3327 25.4164L18.7433 26.7709C18.2102 27.2252 17.6055 27.5499 16.9701 27.745Z" class="fill-pink"/>
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1218 2.63188C16.1874 1.8356 14.8131 1.8356 13.8787 2.63188L12.2894 3.9863C11.889 4.32753 11.3911 4.53374 10.8667 4.57559L8.78515 4.7417C7.56138 4.83936 6.5896 5.81114 6.49195 7.03491L6.32584 9.11646C6.28399 9.64088 6.07777 10.1387 5.73655 10.5391L4.38213 12.1285C3.58584 13.0629 3.58584 14.4372 4.38213 15.3716L5.73655 16.9609C6.07777 17.3613 6.28399 17.8591 6.32584 18.3836L6.49195 20.4651C6.5896 21.6889 7.56138 22.6607 8.78515 22.7583L10.8667 22.9244C11.3911 22.9663 11.889 23.1725 12.2894 23.5137L13.8787 24.8681C14.8131 25.6644 16.1874 25.6644 17.1218 24.8681L18.7111 23.5137C19.1115 23.1725 19.6094 22.9663 20.1338 22.9244L22.2154 22.7583C23.4391 22.6607 24.4109 21.6889 24.5086 20.4651L24.6747 18.3836C24.7165 17.8591 24.9227 17.3613 25.264 16.9609L26.6184 15.3716C27.4147 14.4372 27.4147 13.0629 26.6184 12.1285L25.264 10.5391C24.9227 10.1387 24.7165 9.64088 24.6747 9.11646L24.5086 7.03491C24.4109 5.81114 23.4391 4.83936 22.2154 4.7417L20.1338 4.57559C19.6094 4.53374 19.1115 4.32753 18.7111 3.9863L17.1218 2.63188ZM17.3112 11.2522L16.1895 8.50517C15.9521 7.92278 15.1078 7.92278 14.8698 8.50517L13.7487 11.2522C13.6474 11.5009 13.4081 11.6702 13.1353 11.6879L10.1114 11.8799C9.47089 11.9208 9.21029 12.7047 9.70374 13.1051L12.0342 14.9952C12.2452 15.1658 12.3355 15.4403 12.2684 15.6991L11.5214 18.5657C11.3634 19.172 12.0458 19.6568 12.589 19.3225L15.151 17.7435C15.3819 17.5999 15.6773 17.5999 15.9089 17.7435L18.471 19.3225C19.0134 19.6568 19.6965 19.172 19.5378 18.5657L18.7915 15.6991C18.7238 15.4403 18.8148 15.1658 19.0257 14.9952L21.3562 13.1051C21.8496 12.7047 21.5884 11.9208 20.9479 11.8799L17.9246 11.6879C17.6518 11.6702 17.4125 11.5009 17.3112 11.2522Z" class="fill-yellow dark:fill-yellow-dark-default"/>
+                                        </svg>
+                                        gold
+                                    </div>
+                                </td>
+                                <td class="py-2 pl-2 text-right whitespace-nowrap">250 зн./хв</td>
+                                <td class="py-2 pl-2 text-right">98.7%</td>
+                            </tr>
+                            <tr class="border-t-2 border-brd-primary dark:border-brd-dark-primary">
+                                <td class="py-2">
+                                    <div class="flex items-center">
+                                        <svg class="mr-1" width="31" height="30" viewBox="0 0 31 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M8 25.1687V27.5695C8 28.1874 8.55486 28.6574 9.16439 28.5559L14.0303 27.7449C13.3949 27.5498 12.7902 27.2251 12.2572 26.7709L10.6678 25.4164L8.58628 25.2503C8.3873 25.2345 8.19165 25.207 8 25.1687Z" class="fill-brand-primary"/>
+                                            <path d="M16.9701 27.745L21.8356 28.5559C22.4451 28.6574 23 28.1874 23 27.5695V25.1688C22.8085 25.2071 22.613 25.2345 22.4142 25.2503L20.3327 25.4164L18.7433 26.7709C18.2102 27.2252 17.6055 27.5499 16.9701 27.745Z" class="fill-brand-primary"/>
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M17.1218 2.63188C16.1874 1.8356 14.8131 1.8356 13.8787 2.63188L12.2894 3.9863C11.889 4.32753 11.3911 4.53374 10.8667 4.57559L8.78515 4.7417C7.56138 4.83936 6.5896 5.81114 6.49195 7.03491L6.32584 9.11646C6.28399 9.64088 6.07777 10.1387 5.73655 10.5391L4.38213 12.1285C3.58584 13.0629 3.58584 14.4372 4.38213 15.3716L5.73655 16.9609C6.07777 17.3613 6.28399 17.8591 6.32584 18.3836L6.49195 20.4651C6.5896 21.6889 7.56138 22.6607 8.78515 22.7583L10.8667 22.9244C11.3911 22.9663 11.889 23.1725 12.2894 23.5137L13.8787 24.8681C14.8131 25.6644 16.1874 25.6644 17.1218 24.8681L18.7111 23.5137C19.1115 23.1725 19.6094 22.9663 20.1338 22.9244L22.2154 22.7583C23.4391 22.6607 24.4109 21.6889 24.5086 20.4651L24.6747 18.3836C24.7165 17.8591 24.9227 17.3613 25.264 16.9609L26.6184 15.3716C27.4147 14.4372 27.4147 13.0629 26.6184 12.1285L25.264 10.5391C24.9227 10.1387 24.7165 9.64088 24.6747 9.11646L24.5086 7.03491C24.4109 5.81114 23.4391 4.83936 22.2154 4.7417L20.1338 4.57559C19.6094 4.53374 19.1115 4.32753 18.7111 3.9863L17.1218 2.63188ZM17.3112 11.2522L16.1895 8.50517C15.9521 7.92278 15.1078 7.92278 14.8698 8.50517L13.7487 11.2522C13.6474 11.5009 13.4081 11.6702 13.1353 11.6879L10.1114 11.8799C9.47089 11.9208 9.21029 12.7047 9.70374 13.1051L12.0342 14.9952C12.2452 15.1658 12.3355 15.4403 12.2684 15.6991L11.5214 18.5657C11.3634 19.172 12.0458 19.6568 12.589 19.3225L15.151 17.7435C15.3819 17.5999 15.6773 17.5999 15.9089 17.7435L18.471 19.3225C19.0134 19.6568 19.6965 19.172 19.5378 18.5657L18.7915 15.6991C18.7238 15.4403 18.8148 15.1658 19.0257 14.9952L21.3562 13.1051C21.8496 12.7047 21.5884 11.9208 20.9479 11.8799L17.9246 11.6879C17.6518 11.6702 17.4125 11.5009 17.3112 11.2522Z" class="fill-grey-light dark:fill-grey-dark-light"/>
+                                        </svg>
+                                        silver
+                                    </div>
+                                </td>
+                                <td class="py-2 pl-2 text-right whitespace-nowrap">200 зн./хв</td>
+                                <td class="py-2 pl-2 text-right">96%</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-5 text-center">
+                <button class="btn btn-primary" onclick="scrollToApplication()">Пройти тест друку</button>
+            </div>
+        </section>
+        <section class="mb-6 md:mb-8">
+            <div class="flex justify-center">
+                <div id="div-gpt-ad-typing_test" class="" style="display:block; margin-top:20px; max-width:980px; min-height:100px; width: 100%; text-align: center;"></div>
+                <script>
+                    googletag.cmd.push(function() { googletag.display("div-gpt-ad-typing_test"); });
+                </script>
+            </div>
+        </section>
+        <section class="mb-6 md:mb-8">
+            <div class="md:flex md:-mx-3">
+                <div class="md:w-3/6 md:px-3">
+                    <h2 class="h3">Навіщо проходити тест<br> швидкості друку?</h2>
+                    <p>
+                        Щоб дізнатися свою швидкість і точність друку, зрозуміти чи потрібно щось поліпшити. <a href="/learn/average-typing-speed/">Середня швидкість друку</a> становить 200 зн./хв., спробуй перевершити її! 
+Ти можеш пройти тест кілька разів і побачити, як твоя швидкість друку поліпшується з часом.
+                    </p>
+                    <p>Після проходження тесту онлайн ти отримаєш сертифікат швидкості друку, який зможеш прикріпити до резюме, показати вчителю або похизуватися перед друзями.</p>
+                </div>
+                <div class="md:w-3/6 md:px-3">
+                    <h2 class="h3">Як ми вимірюємо<br> швидкість друку?</h2>
+                    <p>Ми вимірюємо швидкість друку в зн./хв &nbsp;— скільки знаків на хвилину без помилок ти набрав. «Знаком» вважається будь-який символ включно з пропусками. Ми враховуємо тільки правильно набрані слова.</p>
+                    <p>Тому, якщо зроблено помилку, підрахунок символів зупиняється, поки ти її не виправиш.</p>
+                    <p>Щоб отримати найкращий результат в швидкості набору тексту <a href="/keyboard-test/">перевір чи всі клавіші працюють коректно на твоїй клавіатурі</a>.</p>
+                </div>
+            </div>
+            <hr class="mb-4 border-t-2 border-brd-primary dark:border-brd-dark-primary">
+
+            <div class="mx-auto mb-4 text-center md:max-w-[585px]">
+                <h2 class="h3">Тест займе лише 2-3 хвилини!</h2>
+                <p>Проходь тест, скільки захочеш. Обмежень немає.<br>Хапай клавіатуру та вимірюй свою швидкість друку!</p>
+                <button class="btn btn-primary" onclick="scrollToApplication()">Пройти тест друку</button>
+            </div>
+            <hr class="mb-4 border-t-2 border-brd-primary dark:border-brd-dark-primary">        </section>
+                    <section class="max-w-container-small mx-auto mb-6 md:mb-8">
+                <h2 class="h3">Популярні проблеми та поради про друкування наосліп</h2>
+                <ul id="accordionFAQ" class="border-b-2 border-solid border-brd-primary dark:border-brd-dark-primary">
+                                            <li class="border-t-2 border-solid border-brd-primary dark:border-brd-dark-primary">
+                            <button class="py-3 w-full flex justify-between text-left rounded-sm hover:underline md:py-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-28" aria-expanded="false" aria-controls="collapse-28">
+                                <h3 class="h4 mb-0">Як перевірити швидкість набору тексту онлайн?</h3>
+                                <svg class="ml-4 shrink-0 w-auto h-[25px] md:h-[30px]" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0607 9.43934C25.6464 10.0251 25.6464 10.9749 25.0607 11.5607L15 21.6214L4.93927 11.5607C4.35348 10.9749 4.35348 10.0251 4.93927 9.43934C5.52505 8.85355 6.4748 8.85355 7.06059 9.43934L15 17.3787L22.9393 9.43934C23.5251 8.85355 24.4749 8.85355 25.0607 9.43934Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                                </svg>
+                            </button>
+                            <div id="collapse-28" class="collapse">
+                                <div class="mt-3 md:mt-4"><p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Швидкість друку можна перевірити на Ratatype, для цього потрібно просто пройти тест.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Швидкість друку можна перевірити на Ratatype, для цього потрібно просто <a href="/typing-test/test/" target="_blank" rel="noopener">пройти тест</a> та дізнатись результат.</span></p>
+<p>Також ти можеш отримати сертифікати швидкості на <span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;You can check your typing speed on Ratatype &mdash; just %stake a test%s.\n&quot;}" data-sheets-userformat="{&quot;2&quot;:1049345,&quot;3&quot;:{&quot;1&quot;:0},&quot;11&quot;:4,&quot;12&quot;:0,&quot;23&quot;:1}" data-sheets-textstyleruns="{&quot;1&quot;:0}{&quot;1&quot;:53,&quot;2&quot;:{&quot;2&quot;:{&quot;1&quot;:2,&quot;2&quot;:1136076},&quot;9&quot;:1}}{&quot;1&quot;:64}" data-sheets-hyperlinkruns="{&quot;1&quot;:53,&quot;2&quot;:&quot;https://www.ratatype.com/typing-test/test/&quot;}{&quot;1&quot;:64}">Ratatype</span>:</p>
+<ol>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Швидкість друку можна перевірити на Ratatype, для цього потрібно просто пройти тест.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}"><a href="/signup/" target="_blank" rel="noopener">Заповни форму реєстрації</a>.</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Швидкість друку можна перевірити на Ratatype, для цього потрібно просто пройти тест.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}"><a href="/typing-test/test/" target="_blank" rel="noopener">Пройди тест</a> на швидкість друку.</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Швидкість друку можна перевірити на Ratatype, для цього потрібно просто пройти тест.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Клікни правою кнопкою миші на сертифікаті та оберіть &laquo;Зберегти зображення&raquo;, якщо потрібно.</span></li>
+</ol></div>
+                            </div>
+                        </li>
+                                            <li class="border-t-2 border-solid border-brd-primary dark:border-brd-dark-primary">
+                            <button class="py-3 w-full flex justify-between text-left rounded-sm hover:underline md:py-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-15" aria-expanded="false" aria-controls="collapse-15">
+                                <h3 class="h4 mb-0">Як вимірюється швидкість друку?</h3>
+                                <svg class="ml-4 shrink-0 w-auto h-[25px] md:h-[30px]" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0607 9.43934C25.6464 10.0251 25.6464 10.9749 25.0607 11.5607L15 21.6214L4.93927 11.5607C4.35348 10.9749 4.35348 10.0251 4.93927 9.43934C5.52505 8.85355 6.4748 8.85355 7.06059 9.43934L15 17.3787L22.9393 9.43934C23.5251 8.85355 24.4749 8.85355 25.0607 9.43934Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                                </svg>
+                            </button>
+                            <div id="collapse-15" class="collapse">
+                                <div class="mt-3 md:mt-4"><p><span data-sheets-value="\&quot;{&quot;1&quot;:2,&quot;2&quot;:&quot;Для" data-sheets-userformat="\&quot;{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\&quot;"><img src="/upload/faq/06.07.02.01_69.webp" /></span></p>
+<ul>
+<li><span data-sheets-value="\&quot;{&quot;1&quot;:2,&quot;2&quot;:&quot;Для" data-sheets-userformat="\&quot;{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\&quot;">Для мов, які використовують кирилицю, швидкість друку вимірюється в <strong>знаках на хвилину</strong> (скільки знаків на хвилину без друкарських помилок ти набрав). Знаком вважається будь-який символ, включаючи пробіли. </span></li>
+<li><span data-sheets-value="\&quot;{&quot;1&quot;:2,&quot;2&quot;:&quot;Для" data-sheets-userformat="\&quot;{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\&quot;">У мовах з латинським алфавітом &mdash; <strong>слова на хвилину</strong>. Слово &mdash; це 5 символів, в тому числі пробіли. </span></li>
+<li><span data-sheets-value="\&quot;{&quot;1&quot;:2,&quot;2&quot;:&quot;Для" data-sheets-userformat="\&quot;{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\&quot;">Іноді швидкість друку вимірюють в <strong>ударах на хвилину</strong>. Тоді одиниця вимірювання &mdash; це не лише кількість набраних знаків, але й кількість натискань на допоміжні клавіші, такі як Shift та Alt.</span></li>
+</ul>
+<p><span data-sheets-value="\&quot;{&quot;1&quot;:2,&quot;2&quot;:&quot;Для" data-sheets-userformat="\&quot;{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\&quot;">На Ratatype швидкість друку вимірюється у зн./хв для російської та української мов. А для інших &mdash; у сл./хв. Під час <a href="/typing-test/test/" target="_blank" rel="noopener">тестування</a> враховуються лише правильно надруковані слова. Тому, якщо ти зробив помилку, підрахунок символів зупиняється, поки її не виправиш.</span></p>
+<p><span data-sheets-value="\&quot;{&quot;1&quot;:2,&quot;2&quot;:&quot;Для" data-sheets-userformat="\&quot;{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}\&quot;">Точність друку &mdash; це відсоток правильно введених символів до загальної кількості символів у тексті.</span></p></div>
+                            </div>
+                        </li>
+                                            <li class="border-t-2 border-solid border-brd-primary dark:border-brd-dark-primary">
+                            <button class="py-3 w-full flex justify-between text-left rounded-sm hover:underline md:py-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-33" aria-expanded="false" aria-controls="collapse-33">
+                                <h3 class="h4 mb-0">Яка швидкість вважається хорошою?</h3>
+                                <svg class="ml-4 shrink-0 w-auto h-[25px] md:h-[30px]" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0607 9.43934C25.6464 10.0251 25.6464 10.9749 25.0607 11.5607L15 21.6214L4.93927 11.5607C4.35348 10.9749 4.35348 10.0251 4.93927 9.43934C5.52505 8.85355 6.4748 8.85355 7.06059 9.43934L15 17.3787L22.9393 9.43934C23.5251 8.85355 24.4749 8.85355 25.0607 9.43934Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                                </svg>
+                            </button>
+                            <div id="collapse-33" class="collapse">
+                                <div class="mt-3 md:mt-4"><p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;На це запитання немає однозначної відповіді. Але якщо подивитися на середню швидкість друку, яка становить 207 зн./хв, то можна сказати, що хороша швидкість друку &mdash; це вище за середню.\nНаприклад, для офісних працівників гарною вважається швидкість 225 зн./хв та вище. Для секретарів &mdash; понад 300 зн./хв\nДля дітей норми швидкості друку відрізняються:\n- початкова школа &mdash; 40-75 зн./хв;\n- середня &mdash; 75-125 зн./хв;\n- старша &mdash; 100-175 зн./хв;\n- вища понад &mdash; 150 зн./хв.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">На це запитання немає однозначної відповіді. Але якщо подивитися на <a href="/learn/average-typing-speed/" target="_blank" rel="noopener">середню швидкість друку</a>, яка становить 207 зн./хв, то можна сказати, що хороша швидкість друку &mdash; це вище за середню.</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;На це запитання немає однозначної відповіді. Але якщо подивитися на середню швидкість друку, яка становить 207 зн./хв, то можна сказати, що хороша швидкість друку &mdash; це вище за середню.\nНаприклад, для офісних працівників гарною вважається швидкість 225 зн./хв та вище. Для секретарів &mdash; понад 300 зн./хв\nДля дітей норми швидкості друку відрізняються:\n- початкова школа &mdash; 40-75 зн./хв;\n- середня &mdash; 75-125 зн./хв;\n- старша &mdash; 100-175 зн./хв;\n- вища понад &mdash; 150 зн./хв.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Наприклад, для офісних працівників гарною вважається швидкість 225 зн./хв та вище. Для секретарів &mdash; понад 300 зн./хв.</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;На це запитання немає однозначної відповіді. Але якщо подивитися на середню швидкість друку, яка становить 207 зн./хв, то можна сказати, що хороша швидкість друку &mdash; це вище за середню.\nНаприклад, для офісних працівників гарною вважається швидкість 225 зн./хв та вище. Для секретарів &mdash; понад 300 зн./хв\nДля дітей норми швидкості друку відрізняються:\n- початкова школа &mdash; 40-75 зн./хв;\n- середня &mdash; 75-125 зн./хв;\n- старша &mdash; 100-175 зн./хв;\n- вища понад &mdash; 150 зн./хв.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Для дітей норми швидкості друку відрізняються:</span></p>
+<ul>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;На це запитання немає однозначної відповіді. Але якщо подивитися на середню швидкість друку, яка становить 207 зн./хв, то можна сказати, що хороша швидкість друку &mdash; це вище за середню.\nНаприклад, для офісних працівників гарною вважається швидкість 225 зн./хв та вище. Для секретарів &mdash; понад 300 зн./хв\nДля дітей норми швидкості друку відрізняються:\n- початкова школа &mdash; 40-75 зн./хв;\n- середня &mdash; 75-125 зн./хв;\n- старша &mdash; 100-175 зн./хв;\n- вища понад &mdash; 150 зн./хв.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">початкова школа &mdash; 40-75 зн./хв;</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;На це запитання немає однозначної відповіді. Але якщо подивитися на середню швидкість друку, яка становить 207 зн./хв, то можна сказати, що хороша швидкість друку &mdash; це вище за середню.\nНаприклад, для офісних працівників гарною вважається швидкість 225 зн./хв та вище. Для секретарів &mdash; понад 300 зн./хв\nДля дітей норми швидкості друку відрізняються:\n- початкова школа &mdash; 40-75 зн./хв;\n- середня &mdash; 75-125 зн./хв;\n- старша &mdash; 100-175 зн./хв;\n- вища понад &mdash; 150 зн./хв.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">середня &mdash; 75-125 зн./хв;</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;На це запитання немає однозначної відповіді. Але якщо подивитися на середню швидкість друку, яка становить 207 зн./хв, то можна сказати, що хороша швидкість друку &mdash; це вище за середню.\nНаприклад, для офісних працівників гарною вважається швидкість 225 зн./хв та вище. Для секретарів &mdash; понад 300 зн./хв\nДля дітей норми швидкості друку відрізняються:\n- початкова школа &mdash; 40-75 зн./хв;\n- середня &mdash; 75-125 зн./хв;\n- старша &mdash; 100-175 зн./хв;\n- вища понад &mdash; 150 зн./хв.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">старша &mdash; 100-175 зн./хв;</span></li>
+<li><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;На це запитання немає однозначної відповіді. Але якщо подивитися на середню швидкість друку, яка становить 207 зн./хв, то можна сказати, що хороша швидкість друку &mdash; це вище за середню.\nНаприклад, для офісних працівників гарною вважається швидкість 225 зн./хв та вище. Для секретарів &mdash; понад 300 зн./хв\nДля дітей норми швидкості друку відрізняються:\n- початкова школа &mdash; 40-75 зн./хв;\n- середня &mdash; 75-125 зн./хв;\n- старша &mdash; 100-175 зн./хв;\n- вища понад &mdash; 150 зн./хв.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">студенти &mdash; понад 150 зн./хв.</span></li>
+</ul></div>
+                            </div>
+                        </li>
+                                            <li class="border-t-2 border-solid border-brd-primary dark:border-brd-dark-primary">
+                            <button class="py-3 w-full flex justify-between text-left rounded-sm hover:underline md:py-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-25" aria-expanded="false" aria-controls="collapse-25">
+                                <h3 class="h4 mb-0">Яка середня швидкість друкування наосліп?</h3>
+                                <svg class="ml-4 shrink-0 w-auto h-[25px] md:h-[30px]" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0607 9.43934C25.6464 10.0251 25.6464 10.9749 25.0607 11.5607L15 21.6214L4.93927 11.5607C4.35348 10.9749 4.35348 10.0251 4.93927 9.43934C5.52505 8.85355 6.4748 8.85355 7.06059 9.43934L15 17.3787L22.9393 9.43934C23.5251 8.85355 24.4749 8.85355 25.0607 9.43934Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                                </svg>
+                            </button>
+                            <div id="collapse-25" class="collapse">
+                                <div class="mt-3 md:mt-4"><p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Середня швидкість друку складає всього 207 знаків на хвилину. Щоб поліпшити навички набору тексту і навчитися друкувати, як професіонал, потрібно постійно тренуватися. Запам'ятай: практика, практика і ще раз практика. Дослідження показали, що постійна практика допомагає перевищити середній показник швидкості друку втричі.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Середня швидкість друку складає всього 207 знаків на хвилину. Щоб поліпшити навички набору тексту і навчитися друкувати, як професіонал, потрібно постійно тренуватися. </span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Середня швидкість друку складає всього 207 знаків на хвилину. Щоб поліпшити навички набору тексту і навчитися друкувати, як професіонал, потрібно постійно тренуватися. Запам'ятай: практика, практика і ще раз практика. Дослідження показали, що постійна практика допомагає перевищити середній показник швидкості друку втричі.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Запам'ятай: практика, практика і ще раз практика. <a href="/learn/typing-speed-research-how-to-save-21-day-per-year-while-typing/" target="_blank" rel="noopener">Дослідження показали</a>, що постійна практика допомагає перевищити середній показник швидкості друку втричі.</span></p></div>
+                            </div>
+                        </li>
+                                            <li class="border-t-2 border-solid border-brd-primary dark:border-brd-dark-primary">
+                            <button class="py-3 w-full flex justify-between text-left rounded-sm hover:underline md:py-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-20" aria-expanded="false" aria-controls="collapse-20">
+                                <h3 class="h4 mb-0">Яка найбільша швидкість друку?</h3>
+                                <svg class="ml-4 shrink-0 w-auto h-[25px] md:h-[30px]" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0607 9.43934C25.6464 10.0251 25.6464 10.9749 25.0607 11.5607L15 21.6214L4.93927 11.5607C4.35348 10.9749 4.35348 10.0251 4.93927 9.43934C5.52505 8.85355 6.4748 8.85355 7.06059 9.43934L15 17.3787L22.9393 9.43934C23.5251 8.85355 24.4749 8.85355 25.0607 9.43934Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                                </svg>
+                            </button>
+                            <div id="collapse-20" class="collapse">
+                                <div class="mt-3 md:mt-4"><p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1080 знаків за одну хвилину на електричній друкарській машинці IBM &mdash; рекорд швидкості набору тексту, встановлений Стеллою Паджунас у 1946 році. Зараз чемпіонкою з набору тексту англійською мовою на клавіатурі є Барбара Блекборн. Під час тесту в 2005 році вона розвинула швидкість друку 1050 знаків на хвилину на клавіатурі Дворака &mdash; спрощеному варіанті звичної нам розкладки QWERTY.\n\nШон Врона встановив черговий рекорд на чемпіонаті Ultimate Typing Championship &mdash; 1280 знаків на хвилину. Врона також неофіційно побив рекорд Блекборн за швидкістю набору тексту, підтримуючи швидкість 870 знаків на хвилину протягом 50 хвилин. Хоча цей рекорд не визнаний Гіннесом, тому що команда його не відстежувала.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}"><img src="/upload/faq/06.07.02.49_53.webp" /></span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1080 знаків за одну хвилину на електричній друкарській машинці IBM &mdash; рекорд швидкості набору тексту, встановлений Стеллою Паджунас у 1946 році. Зараз чемпіонкою з набору тексту англійською мовою на клавіатурі є Барбара Блекборн. Під час тесту в 2005 році вона розвинула швидкість друку 1050 знаків на хвилину на клавіатурі Дворака &mdash; спрощеному варіанті звичної нам розкладки QWERTY.\n\nШон Врона встановив черговий рекорд на чемпіонаті Ultimate Typing Championship &mdash; 1280 знаків на хвилину. Врона також неофіційно побив рекорд Блекборн за швидкістю набору тексту, підтримуючи швидкість 870 знаків на хвилину протягом 50 хвилин. Хоча цей рекорд не визнаний Гіннесом, тому що команда його не відстежувала.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">1080 знаків за одну хвилину на електричній друкарській машинці IBM &mdash; рекорд швидкості набору тексту, встановлений Стеллою Паджунас у 1946 році. Зараз чемпіонкою з набору тексту англійською мовою на клавіатурі є Барбара Блекборн. Під час тесту в 2005 році вона розвинула швидкість друку 1050 знаків на хвилину на клавіатурі Дворака &mdash; спрощеному варіанті звичної нам розкладки QWERTY.</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1080 знаків за одну хвилину на електричній друкарській машинці IBM &mdash; рекорд швидкості набору тексту, встановлений Стеллою Паджунас у 1946 році. Зараз чемпіонкою з набору тексту англійською мовою на клавіатурі є Барбара Блекборн. Під час тесту в 2005 році вона розвинула швидкість друку 1050 знаків на хвилину на клавіатурі Дворака &mdash; спрощеному варіанті звичної нам розкладки QWERTY.\n\nШон Врона встановив черговий рекорд на чемпіонаті Ultimate Typing Championship &mdash; 1280 знаків на хвилину. Врона також неофіційно побив рекорд Блекборн за швидкістю набору тексту, підтримуючи швидкість 870 знаків на хвилину протягом 50 хвилин. Хоча цей рекорд не визнаний Гіннесом, тому що команда його не відстежувала.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Шон Врона встановив черговий рекорд на чемпіонаті Ultimate Typing Championship &mdash; 1280 знаків на хвилину. Врона також неофіційно побив рекорд Блекборн за швидкістю набору тексту, підтримуючи швидкість 870 знаків на хвилину протягом 50 хвилин. Хоча цей рекорд не визнаний Гіннесом, тому що команда його не відстежувала.</span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1080 знаків за одну хвилину на електричній друкарській машинці IBM &mdash; рекорд швидкості набору тексту, встановлений Стеллою Паджунас у 1946 році. Зараз чемпіонкою з набору тексту англійською мовою на клавіатурі є Барбара Блекборн. Під час тесту в 2005 році вона розвинула швидкість друку 1050 знаків на хвилину на клавіатурі Дворака &mdash; спрощеному варіанті звичної нам розкладки QWERTY.\n\nШон Врона встановив черговий рекорд на чемпіонаті Ultimate Typing Championship &mdash; 1280 знаків на хвилину. Врона також неофіційно побив рекорд Блекборн за швидкістю набору тексту, підтримуючи швидкість 870 знаків на хвилину протягом 50 хвилин. Хоча цей рекорд не визнаний Гіннесом, тому що команда його не відстежувала.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Спробуй <a href="/typing-test/test/" target="_blank" rel="noopener">встановити новий рекорд друку</a> разом із Ratatype.</span></p></div>
+                            </div>
+                        </li>
+                                            <li class="border-t-2 border-solid border-brd-primary dark:border-brd-dark-primary">
+                            <button class="py-3 w-full flex justify-between text-left rounded-sm hover:underline md:py-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-22" aria-expanded="false" aria-controls="collapse-22">
+                                <h3 class="h4 mb-0">Чи хороша швидкість друку 100 зн./хв?</h3>
+                                <svg class="ml-4 shrink-0 w-auto h-[25px] md:h-[30px]" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0607 9.43934C25.6464 10.0251 25.6464 10.9749 25.0607 11.5607L15 21.6214L4.93927 11.5607C4.35348 10.9749 4.35348 10.0251 4.93927 9.43934C5.52505 8.85355 6.4748 8.85355 7.06059 9.43934L15 17.3787L22.9393 9.43934C23.5251 8.85355 24.4749 8.85355 25.0607 9.43934Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                                </svg>
+                            </button>
+                            <div id="collapse-22" class="collapse">
+                                <div class="mt-3 md:mt-4"><p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Залежить віку. Наприклад, для дітей початкової та середньої школи це гарна швидкість. Для старшої школи та дорослих швидкість 20 сл./хв вважається низькою. Рекомендую пройти курс друку і швидкість набору збільшиться.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Залежить від віку. </span><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Залежить віку. Наприклад, для дітей початкової та середньої школи це гарна швидкість. Для старшої школи та дорослих швидкість 20 сл./хв вважається низькою. Рекомендую пройти курс друку і швидкість набору збільшиться.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Наприклад, для дітей початкової та середньої школи це гарна швидкість. </span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Залежить віку. Наприклад, для дітей початкової та середньої школи це гарна швидкість. Для старшої школи та дорослих швидкість 20 сл./хв вважається низькою. Рекомендую пройти курс друку і швидкість набору збільшиться.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Для старшої школи та дорослих швидкість 100 зн./хв вважається низькою. <a href="/courses/" target="_blank" rel="noopener">Пройти курс друкування</a> й твоя швидкість набору збільшиться.</span></p></div>
+                            </div>
+                        </li>
+                                            <li class="border-t-2 border-solid border-brd-primary dark:border-brd-dark-primary">
+                            <button class="py-3 w-full flex justify-between text-left rounded-sm hover:underline md:py-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-26" aria-expanded="false" aria-controls="collapse-26">
+                                <h3 class="h4 mb-0">Як навчитися друкувати швидше за 500 зн./хв?</h3>
+                                <svg class="ml-4 shrink-0 w-auto h-[25px] md:h-[30px]" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0607 9.43934C25.6464 10.0251 25.6464 10.9749 25.0607 11.5607L15 21.6214L4.93927 11.5607C4.35348 10.9749 4.35348 10.0251 4.93927 9.43934C5.52505 8.85355 6.4748 8.85355 7.06059 9.43934L15 17.3787L22.9393 9.43934C23.5251 8.85355 24.4749 8.85355 25.0607 9.43934Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                                </svg>
+                            </button>
+                            <div id="collapse-26" class="collapse">
+                                <div class="mt-3 md:mt-4"><p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Рекордсмени друкують зі швидкістю понад 1000 зн./хв, отже, 500 зн./хв &mdash; цілком досяжна мета. Запорука успіху будь-якого заняття &mdash; регулярні тренування. Тільки-но ти пропускаєш урок &mdash; втрачаєш час, який вже витратив на навчання. Тому постарайся виділити 2-4 тижні для регулярних тренувань &mdash; щодня по 30 хвилин.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Рекордсмени друкують зі швидкістю понад 1000 зн./хв, отже, 500 зн./хв &mdash; цілком досяжна мета. </span></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Рекордсмени друкують зі швидкістю понад 1000 зн./хв, отже, 500 зн./хв &mdash; цілком досяжна мета. Запорука успіху будь-якого заняття &mdash; регулярні тренування. Тільки-но ти пропускаєш урок &mdash; втрачаєш час, який вже витратив на навчання. Тому постарайся виділити 2-4 тижні для регулярних тренувань &mdash; щодня по 30 хвилин.&quot;}" data-sheets-userformat="{&quot;2&quot;:11137,&quot;3&quot;:{&quot;1&quot;:0},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;14&quot;:{&quot;1&quot;:2,&quot;2&quot;:0},&quot;16&quot;:10}">Запорука успіху будь-якого заняття &mdash; регулярні тренування. Тільки-но ти пропускаєш урок &mdash; втрачаєш час, який вже витратив на навчання. Тому постарайся виділити 2-4 тижні для регулярних тренувань &mdash; щодня по 30 хвилин.</span></p></div>
+                            </div>
+                        </li>
+                                            <li class="border-t-2 border-solid border-brd-primary dark:border-brd-dark-primary">
+                            <button class="py-3 w-full flex justify-between text-left rounded-sm hover:underline md:py-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-43" aria-expanded="false" aria-controls="collapse-43">
+                                <h3 class="h4 mb-0">Чи може тестування допомогти покращити швидкість друку?</h3>
+                                <svg class="ml-4 shrink-0 w-auto h-[25px] md:h-[30px]" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0607 9.43934C25.6464 10.0251 25.6464 10.9749 25.0607 11.5607L15 21.6214L4.93927 11.5607C4.35348 10.9749 4.35348 10.0251 4.93927 9.43934C5.52505 8.85355 6.4748 8.85355 7.06059 9.43934L15 17.3787L22.9393 9.43934C23.5251 8.85355 24.4749 8.85355 25.0607 9.43934Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                                </svg>
+                            </button>
+                            <div id="collapse-43" class="collapse">
+                                <div class="mt-3 md:mt-4"><p>Звісно так! Чим більше практики, тим вища швидкість. А тестування швидкості друку &mdash; це також практика.</p>
+<p>Щоб твої пальці якнайшвидше запам'ятали розташування клавіш на клавіатурі, друкуй якнайбільше: пиши листи друзям, набирай реферати або просто проходь тестування швидкості друку.</p></div>
+                            </div>
+                        </li>
+                                    </ul>
+            </section>
+            </div>
+                </main>
+
+<footer id="footer" class="mt-10 bg-bg-secondary dark:bg-bg-dark-secondary text-txt-secondary dark:text-txt-dark-secondary text-small-xs md:mt-8 md:text-small duration-300 transition-colors">
+            <div class="mx-auto px-4 max-w-screen-container-xl md:px-6">
+    <div class="flex flex-wrap pt-7 pb-4 -mx-3">
+        <div class="w-3/6 px-3 md:w-2/6 lg:w-1/6">
+            <div class="pb-3 font-extrabold md:pb-2">Практика набору тексту</div>
+            <ul>
+                <li class="pb-3 md:pb-2"><a href="/typing-tutor/" class="hover:underline">Тренажер</a></li>
+                <li class="pb-3 md:pb-2"><a href="/typing-test/" class="hover:underline">Тестування</a></li>
+                <li class="pb-3 md:pb-2"><a href="/learn/groups/" class="hover:underline">Групи</a></li>
+                <li class="pb-3 md:pb-2"><a href="/courses/" class="hover:underline">Курси</a></li>
+                <li class="pb-3 md:pb-2"><a href="/high-scores/this-month/" class="hover:underline">Рейтинг</a></li>
+            </ul>
+        </div>
+        <div class="w-3/6 px-3 md:w-2/6 lg:w-1/6">
+            <div class="pb-3 font-extrabold md:pb-2">Ресурси</div>
+            <ul>
+                <li class="pb-3 md:pb-2"><a href="/learn/" class="hover:underline">Навчання</a></li>
+                <li class="pb-3 md:pb-2"><a href="/faq/" class="hover:underline">Допомога</a></li>
+                <li class="pb-3 md:pb-2"><a href="/learn/gamemode/" class="hover:underline">Грайся та вчися друкуванню</a></li>
+                <li class="pb-3 md:pb-2"><a href="/keyboard-test/" class="hover:underline">Перевірка клавіатури</a></li>
+            </ul>
+        </div>
+        <div class="w-3/6 pt-4 px-3 md:w-2/6 md:pt-0 lg:w-1/6">
+            <div class="pb-3 font-extrabold md:pb-2">Про нас</div>
+            <ul>
+                <li class="pb-3 md:pb-2"><a href="/about/" class="hover:underline">Про Ratatype</a></li>
+                <li class="pb-3 md:pb-2"><a href="/contact/" class="hover:underline">Контакти</a></li>
+                <li class="pb-3 md:pb-2"><a href="/privacy-terms/" class="hover:underline">Умови використання</a></li>
+                            </ul>
+        </div>
+        <div class="w-3/6 pt-4 px-3 md:w-2/6 md:pt-6 lg:w-1/6 lg:pt-0">
+            <div class="pb-3 font-extrabold md:pb-2">Для вчителів</div>
+            <ul>
+                <li class="pb-3 md:pb-2"><a href="/learn/teachers/" class="hover:underline">Клас</a></li>
+                <li class="pb-3 md:pb-2"><a href="/teachers/classroom/" class="hover:underline">Синхронізація з Google Classroom</a></li>
+                <li class="pb-3 md:pb-2"><a href="/remove-ads-for-students/" id="License_footer" onclick="document.cookie='eventCategory='+this.id+';path=/';" class="hover:underline">Навчання без реклами для ваших учнів </a></li>
+            </ul>
+        </div>
+        <div class="w-3/6 pt-4 px-3 md:w-2/6 md:pt-6 lg:w-1/6 lg:pt-0">
+            <div class="pb-3 font-extrabold md:pb-2">Підтримати клавіатурний тренажер</div>
+            <ul>
+                <li class="pb-3 md:pb-2"><a href="/donation/" class="flex items-center hover:underline" id="Donate_footer" onclick="document.cookie='eventCategory='+this.id+';path=/';">
+                    <img src="/static/img/donate-small.svg" alt="Donut" width="24" height="24" class="mr-1 shrink-0">
+                    <span>Підтримати проєкт</span>
+                </a></li>
+                <li class="pb-3 md:pb-2"><a href="/ratatype-plus/" class="flex items-center hover:underline" id="RatatypePlus_footer" onclick="document.cookie='eventCategory='+this.id+';path=/';">
+                    <img src="/static/img/plus.svg" alt="Ratatype Plus" width="24" height="24" class="mr-1 shrink-0">
+                    <span>Ratatype Plus</span>
+                </a></li>
+            </ul>
+        </div>
+        <div class="w-3/6 pt-4 px-3 md:w-2/6 md:pt-6 lg:w-1/6 lg:pt-0">
+            <!-- Button trigger modal -->
+            <button class="w-full max-w-[10.625rem] py-2 pl-2 flex items-center border-2 border-solid border-grey-light dark:border-brd-dark-primary rounded-sm font-extrabold mb-3 md:mb-4" type="button"  data-bs-toggle="modal" data-bs-target="#footerLangModal">
+                <svg class="mr-1" width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M18.6666 10C18.6666 14.4183 15.0849 18 10.6666 18C6.24835 18 2.66663 14.4183 2.66663 10C2.66663 5.58172 6.24835 2 10.6666 2C15.0849 2 18.6666 5.58172 18.6666 10ZM10.6666 15.4761C10.8129 15.2743 10.9719 15.0335 11.1317 14.7539C11.6285 13.8845 12.1354 12.6355 12.2875 11H9.04576C9.19785 12.6355 9.70473 13.8845 10.2015 14.7539C10.3613 15.0335 10.5204 15.2743 10.6666 15.4761ZM12.9853 15.5356C14.8521 14.7527 16.2392 13.0531 16.5837 11H14.2948C14.1453 12.9182 13.5824 14.4321 12.9853 15.5356ZM14.2948 9H16.5837C16.2392 6.94686 14.8521 5.24729 12.9853 4.46444C13.5824 5.56788 14.1453 7.08183 14.2948 9ZM12.2875 9H9.04576C9.19785 7.36452 9.70473 6.11554 10.2015 5.24614C10.3613 4.96646 10.5204 4.72568 10.6666 4.52389C10.8129 4.72568 10.9719 4.96646 11.1317 5.24614C11.6285 6.11554 12.1354 7.36452 12.2875 9ZM7.03849 11C7.18795 12.9182 7.75085 14.4321 8.34794 15.5356C6.4812 14.7527 5.09404 13.0531 4.74958 11H7.03849ZM7.03849 9C7.18795 7.08183 7.75085 5.56788 8.34793 4.46444C6.4812 5.24729 5.09404 6.94686 4.74958 9H7.03849Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                </svg>
+                Україна
+            </button>
+            <!-- Button switch theme -->
+                            <a href="/ratatype-plus/">
+                            <button id="theme-switch-button-footer" class="theme-switch-button">
+                    <div id="darkThemeFooterOn" class="dark-theme flex items-center justify-between " onclick="document.cookie='eventCategory='+this.id+';path=/';">
+                        <svg class="animate-fade-and-move mr-1 pointer-events-none" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M10.9698 7.35512C12.6072 5.7711 14.6068 4.96305 16.6014 4.79652C16.9579 4.76392 17.2312 5.12578 17.085 5.44832C15.8379 8.11689 15.8771 11.3419 17.4708 14.1023C19.0646 16.8628 21.8379 18.5092 24.7725 18.7635C25.1329 18.7935 25.3097 19.2111 25.1032 19.5035C24.3552 20.5849 23.3646 21.5249 22.1583 22.2213C17.2931 25.0302 10.9112 22.8908 8.7837 17.3858C7.43674 13.9199 8.31441 9.9058 10.9698 7.35512Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                        </svg>
+                        <span class="pointer-events-none">Темна тема</span>
+                    </div>
+
+                    <div id="darkModeFooterOff" class="light-theme flex items-center justify-between hidden">
+                        <svg class="animate-fade-and-move mr-1 pointer-events-none" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M15 9C15.5523 9 16 8.55228 16 8V6C16 5.44772 15.5523 5 15 5C14.4477 5 14 5.44772 14 6V8C14 8.55228 14.4477 9 15 9Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                            <path d="M24 14H22C21.4477 14 21 14.4477 21 15C21 15.5523 21.4477 16 22 16H24C24.5523 16 25 15.5523 25 15C25 14.4477 24.5523 14 24 14Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                            <path d="M9 15C9 14.4477 8.55228 14 8 14H6C5.44772 14 5 14.4477 5 15C5 15.5523 5.44772 16 6 16H8C8.55228 16 9 15.5523 9 15Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                            <path d="M9.22023 8.00312C8.8143 7.61929 8.17407 7.63719 7.79023 8.04312C7.40639 8.44905 7.4243 9.08929 7.83023 9.47312L9.27023 10.8631C9.46548 11.0517 9.72898 11.1527 10.0002 11.1431C10.2724 11.1421 10.5324 11.0301 10.7202 10.8331C11.108 10.4431 11.108 9.81316 10.7202 9.42312L9.22023 8.00312Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                            <path d="M19.9996 11.1427C20.2571 11.1417 20.5042 11.0414 20.6896 10.8627L22.1296 9.47269C22.4942 9.09176 22.5004 8.49321 22.1437 8.10486C21.7871 7.71651 21.1901 7.6718 20.7796 8.00269L19.3396 9.42269C18.9519 9.81273 18.9519 10.4427 19.3396 10.8327C19.5128 11.0154 19.7484 11.1261 19.9996 11.1427Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                            <path d="M15 21C14.4477 21 14 21.4477 14 22V24C14 24.5523 14.4477 25 15 25C15.5523 25 16 24.5523 16 24V22C16 21.4477 15.5523 21 15 21Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                            <path d="M20.7299 19.1401C20.3322 18.7563 19.6987 18.7674 19.3149 19.1651C18.9311 19.5627 18.9422 20.1963 19.3399 20.5801L20.7799 22.0001C20.9653 22.1788 21.2124 22.2791 21.4699 22.2801C21.7406 22.2817 22.0004 22.1734 22.1899 21.9801C22.3792 21.7923 22.4857 21.5367 22.4857 21.2701C22.4857 21.0035 22.3792 20.7479 22.1899 20.5601L20.7299 19.1401Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                            <path d="M9.26998 19.1413L7.82998 20.5313C7.64067 20.7191 7.53418 20.9747 7.53418 21.2413C7.53418 21.508 7.64067 21.7636 7.82998 21.9513C8.01948 22.1447 8.27926 22.2529 8.54998 22.2513C8.79649 22.2534 9.03509 22.1644 9.21998 22.0013L10.66 20.6113C11.0576 20.2275 11.0688 19.594 10.685 19.1963C10.3011 18.7987 9.66762 18.7875 9.26998 19.1713V19.1413Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                            <path d="M15 11C12.7909 11 11 12.7909 11 15C11 17.2091 12.7909 19 15 19C17.2091 19 19 17.2091 19 15C19 12.7909 17.2091 11 15 11V11Z" class="fill-icon-primary dark:fill-icon-dark-primary"/>
+                        </svg>
+                        <span class="pointer-events-none">Світла тема</span>
+                    </div>
+                </button>
+                             </a>
+                        <!-- Modal -->
+            <div class="modal fade" id="footerLangModal" tabindex="-1" aria-labelledby="footerLanguages" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                    <div class="modal-content bg-white dark:bg-black text-txt-primary dark:text-txt-dark-primary rounded-t-lg md:rounded-b-lg">
+                        <button type="button" class="absolute top-4 right-4 z-10 p-1 md:top-6 md:right-6" data-bs-dismiss="modal" aria-label="Close">
+                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0.93934 16.9393C0.353553 17.5251 0.353553 18.4749 0.93934 19.0607C1.52513 19.6464 2.47487 19.6464 3.06066 19.0607L10 12.1213L16.9393 19.0607C17.5251 19.6464 18.4749 19.6464 19.0607 19.0607C19.6464 18.4749 19.6464 17.5251 19.0607 16.9393L12.1213 10L19.0607 3.06066C19.6464 2.47487 19.6464 1.52513 19.0607 0.93934C18.4749 0.353553 17.5251 0.353553 16.9393 0.93934L10 7.87868L3.06066 0.93934C2.47487 0.353554 1.52513 0.353554 0.93934 0.93934C0.353553 1.52513 0.353553 2.47487 0.93934 3.06066L7.87868 10L0.93934 16.9393Z" class="fill-icon-secondary dark:fill-icon-dark-secondary"/>
+                            </svg>
+                        </button>
+                        <div class="modal-header p-4 pb-0 md:p-6 md:pb-0">
+                            <div class="relative px-8 text-center">
+                                <div class="h3" id="footerLanguages">Мова сайту</div>
+                            </div>
+                        </div>
+                        <hr class="border-t-2 border-transparent transition-all mx-4 mt-1 md:mx-6">
+                        <div class="modal-body p-4 pt-0 md:p-6 md:pt-0">
+                            <div class="md:flex">
+                                <div class="pb-2 border-b-2 border-brd-primary dark:border-brd-dark-primary md:w-3/6 md:pb-0 md:pr-2 md:border-b-0 md:border-r-2">
+                                    <div class="pl-2 pb-2 text-txt-secondary dark:text-txt-dark-secondary text-small-xs md:text-small">Країни</div>
+                                    <ul>
+                                                                                    <li>
+                                                <a data-toggle="interface" class="flex items-center py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.ua/typing-test/?guest=1&utm_source=https://www.ratatype.ua&utm_medium=referal">
+                                                    <div class="locale-flag" style="background-image: url(/static/i/flag/uk.svg);"></div>
+                                                    <div class="ml-1">Україна</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a data-toggle="interface" class="flex items-center py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.fr/typing-test/?guest=1&utm_source=https://www.ratatype.ua&utm_medium=referal">
+                                                    <div class="locale-flag" style="background-image: url(/static/i/flag/fr.svg);"></div>
+                                                    <div class="ml-1">France</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a data-toggle="interface" class="flex items-center py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.es/typing-test/?guest=1&utm_source=https://www.ratatype.ua&utm_medium=referal">
+                                                    <div class="locale-flag" style="background-image: url(/static/i/flag/es.svg);"></div>
+                                                    <div class="ml-1">España</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a data-toggle="interface" class="flex items-center py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.it/typing-test/?guest=1&utm_source=https://www.ratatype.ua&utm_medium=referal">
+                                                    <div class="locale-flag" style="background-image: url(/static/i/flag/it.svg);"></div>
+                                                    <div class="ml-1">Italia</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a data-toggle="interface" class="flex items-center py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.de/typing-test/?guest=1&utm_source=https://www.ratatype.ua&utm_medium=referal">
+                                                    <div class="locale-flag" style="background-image: url(/static/i/flag/de.svg);"></div>
+                                                    <div class="ml-1">Deutschland</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a data-toggle="interface" class="flex items-center py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com.br/typing-test/?guest=1&utm_source=https://www.ratatype.ua&utm_medium=referal">
+                                                    <div class="locale-flag" style="background-image: url(/static/i/flag/br.svg);"></div>
+                                                    <div class="ml-1">Brasil</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a data-toggle="interface" class="flex items-center py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.pl/typing-test/?guest=1&utm_source=https://www.ratatype.ua&utm_medium=referal">
+                                                    <div class="locale-flag" style="background-image: url(/static/i/flag/pl.svg);"></div>
+                                                    <div class="ml-1">Polska</div>
+                                                </a>
+                                            </li>
+                                                                            </ul>
+                                </div>
+                                <div class="pt-4 md:w-3/6 md:pt-0 md:pl-2">
+                                    <div class="pl-2 pb-2 text-txt-secondary dark:text-txt-dark-secondary text-small-xs md:text-small">Міжнародний сайт</div>
+                                    <ul>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    English
+                                                </a>
+                                            </li>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/uk/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    Українська
+                                                </a>
+                                            </li>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/fr/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    Français
+                                                </a>
+                                            </li>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/es/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    Español
+                                                </a>
+                                            </li>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/it/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    Italiano
+                                                </a>
+                                            </li>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/de/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    Deutsche
+                                                </a>
+                                            </li>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/pt_BR/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    Portuguese (Brasil)
+                                                </a>
+                                            </li>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/tr/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    Türkçe
+                                                </a>
+                                            </li>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/nl/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    Nederlands
+                                                </a>
+                                            </li>
+                                        
+                                                                                                                                                                                    <li>
+                                                <a data-toggle="interface" class="block py-2 px-3 rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary"
+                                                   href="https://www.ratatype.com/ru/typing-test/?guest=1&amp;utm_source=https://www.ratatype.ua&amp;utm_medium=referal">
+                                                    Русский
+                                                </a>
+                                            </li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- #Modal -->
+        </div>
+    </div>
+    <hr class="border-t-2 border-brd-primary dark:border-brd-dark-primary">
+    <div class="flex items-center justify-between py-4">
+        <div>&copy;&nbsp;2024  <a href="//www.ratatype.ua">Ratatype &mdash; Безкоштовний клавіатурний тренажер</a></div>
+        <ul class="flex shrink-0">
+            <li class="ml-2">
+                <a href="https://www.facebook.com/Ratatype/" class="block" target="_blank" rel="noopener" aria-label="Facebook">
+                    <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+                        <title>Facebook</title>
+                        <path d="M27.0001 14.9938C27.0001 8.37314 21.6242 3 15.0001 3C8.37603 3 3.00012 8.37314 3.00012 14.9938C3.00012 20.9846 7.38735 25.9501 13.134 26.8394V18.4524H10.0691V14.9938H13.134V12.3505C13.134 9.34895 14.9136 7.68142 17.6572 7.68142C18.9672 7.68142 20.3266 7.92847 20.3266 7.92847V10.8559H18.8189C17.3235 10.8559 16.8539 11.7947 16.8539 12.7334V14.9815H20.1906L19.6592 18.4401H16.8539V26.8271C22.6129 25.9501 27.0001 20.9846 27.0001 14.9938Z" fill="#1877F2"/>
+                        <path d="M19.6715 18.4648L20.2029 15.0062H16.8662V12.7581C16.8662 11.807 17.3482 10.8806 18.8312 10.8806H20.3389V7.94083C20.3389 7.94083 18.9795 7.69379 17.6695 7.69379C14.9259 7.69379 13.1463 9.36131 13.1463 12.3629V15.0062H10.0814V18.4648H13.1463V26.8518C13.7519 26.9506 14.3821 27 15.0124 27C15.6427 27 16.273 26.9506 16.8785 26.8518V18.4648H19.6715Z" fill="white"/>
+                    </svg>
+                </a>
+            </li>
+            <li class="ml-2">
+                <a href="https://twitter.com/ratatype" class="block" target="_blank" rel="noopener" aria-label="Twitter">
+                    <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+                        <title>Twitter</title>
+                        <circle cx="15.0001" cy="15" r="12" fill="#4A99E9"/>
+                        <path d="M23.4001 11.586C22.8708 11.8208 22.3012 11.98 21.7028 12.0506C22.3133 11.6847 22.7814 11.1061 23.0018 10.4165C22.4307 10.7543 21.7988 11.0008 21.1263 11.1342C20.5875 10.5584 19.8198 10.2 18.9698 10.2C17.3384 10.2 16.0152 11.5232 16.0152 13.1545C16.0152 13.3863 16.0414 13.6109 16.0921 13.8282C13.636 13.7046 11.4605 12.5288 10.0031 10.741C9.74755 11.1775 9.60321 11.685 9.60321 12.2265C9.60321 13.2513 10.1244 14.1555 10.9174 14.6853C10.4326 14.6708 9.97731 14.5374 9.57824 14.3166C9.57824 14.3287 9.57824 14.3408 9.57824 14.3525C9.57824 15.7846 10.5968 16.9786 11.9481 17.2502C11.7004 17.3176 11.439 17.3543 11.1706 17.3543C10.9806 17.3543 10.7942 17.336 10.6147 17.3013C10.9904 18.4754 12.0815 19.3286 13.3739 19.3524C12.3624 20.1454 11.0887 20.6179 9.70464 20.6179C9.46629 20.6179 9.23184 20.6034 9.00012 20.5765C10.3073 21.4144 11.8607 21.9028 13.5287 21.9028C18.9632 21.9028 21.9353 17.4011 21.9353 13.4967C21.9353 13.3691 21.931 13.2411 21.9259 13.1147C22.5033 12.6977 23.0038 12.1781 23.4001 11.586Z" fill="white"/>
+                    </svg>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+    </footer>
+
+<div class="px-4 md:px-0 w-full fixed left-1/2 -translate-x-1/2 z-50 top-4 md:top-6 max-w-[515px]" style="display: none;" id="chipsMessageContainer"></div>
+<template id="chipsMessageTemplate">
+    <div class="js-chips-message p-3 mb-3 last:mb-0 mx-auto flex items-center justify-between bg-green-light dark:bg-green-dark-light rounded-sm">
+        <div class="js-chips-message-text pr-3 font-bold text-[17px]"></div>
+        <button type="button" class="js-chips-message-close">
+            <img src="/static/img/icons/cancel.svg" alt="Cancel"  width="20" height="20">
+        </button>
+    </div>
+</template>
+
+    <script src="/static/js/index-min-1728564341.js"></script>
+<script data-adt-consent="ignore" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+
+<script data-adt-consent="ignore" src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+<script data-adt-consent="ignore">
+    window.jQuery || document.write('<script data-adt-consent="ignore" src="/js/jquery-3.6.0.min.js"><\/script>')
+    const measurementId = 'G-P2TYW6DLGB';
+</script>
+
+
+<script data-adt-consent="ignore" src="/static/js/bootstrap-min-1631798004.js"></script>
+<script data-adt-consent="ignore" src="/static/js/jquery-animate-color-animate-min-1652702863.js"></script>
+<script data-adt-consent="ignore" src="/js/jquery-ui.min.js"></script>
+<script data-adt-consent="ignore" src="/js/main-min-1696219517.js"></script>
+<script data-adt-consent="ignore" src="/static/js/libraries/jquery.cookie-min-1576666147.js"></script>
+<script data-adt-consent="ignore" src="/static/js/plugins-min-1696219517.js"></script>
+<script data-adt-consent="ignore" src="/static/js/toggle-game_mode-min-1655107430.js"></script>
+<script data-adt-consent="ignore" src="/locale/uk_UA/lp-1726829488.js"></script>
+<script data-adt-consent="ignore" src="/static/js/remove-ads-sidebar-min-1652702863.js"></script>
+
+<div class="modal fade" id="buySubscription" tabindex="-1" aria-labelledby="buySubscription" aria-modal="true" role="dialog">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content bg-white dark:bg-black text-txt-primary dark:text-txt-dark-primary rounded-t-lg md:rounded-b-lg">
+            <button type="button" class="absolute top-4 right-4 z-10 p-1 md:top-6 md:right-6" data-bs-dismiss="modal" aria-label="Close">
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0.93934 16.9393C0.353553 17.5251 0.353553 18.4749 0.93934 19.0607C1.52513 19.6464 2.47487 19.6464 3.06066 19.0607L10 12.1213L16.9393 19.0607C17.5251 19.6464 18.4749 19.6464 19.0607 19.0607C19.6464 18.4749 19.6464 17.5251 19.0607 16.9393L12.1213 10L19.0607 3.06066C19.6464 2.47487 19.6464 1.52513 19.0607 0.93934C18.4749 0.353553 17.5251 0.353553 16.9393 0.93934L10 7.87868L3.06066 0.93934C2.47487 0.353554 1.52513 0.353554 0.93934 0.93934C0.353553 1.52513 0.353553 2.47487 0.93934 3.06066L7.87868 10L0.93934 16.9393Z" class="fill-icon-secondary dark:fill-icon-dark-secondary"/>
+                </svg>
+            </button>
+            <div class="modal-header p-4 pb-0 md:p-6 md:pb-0">
+                <div class="relative text-center">
+                                            <img src="/static/img/ms-starky-payment-dark.svg" alt="" width="100" height="100" class="mx-auto mb-4">
+                                        <div class="h3">Спроби на проходження вправ закінчилися</div>
+                </div>
+            </div>
+            <hr class="border-t-2 border-transparent transition-all mx-4 mt-1 md:mx-6">
+            <div class="modal-body p-4 pt-1 md:p-6 md:pt-0">
+                                    <p class="text-center">Хочеш проходити необмежену кількість вправ на день? Для цього необхідно придбати безлімітний доступ до уроків.</p>
+                                <div class="text-center mt-1">
+                    <a id="UnlimAccess_PopUp" class="btn btn-quinary btn-with-icon" href="/ratatype-plus/" onclick="document.cookie='eventCategory='+this.id+';path=/';">
+                        <img class="mr-1" src="/static/img/plus.svg" alt="Вимкнути рекламу" width="24" height="24">
+                                                    Отримати безлімітний доступ
+                                            </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-adt-consent="ignore">
+    $(function () {
+        var modal = $('#buySubscription');
+        var button = $('.showBuySubscriptionModal');
+    
+        button.on('click', function (e) {
+            e.preventDefault();
+            modal.modal('show');
+        });
+    });
+    
+    document.querySelector('#UnlimAccess_PopUp').addEventListener('click', function() {
+        sessionStorage.setItem('openStripe', 'true');
+    });
+</script>
+<div class="modal fade" id="unlimAccessTypingTest" tabindex="-1" aria-labelledby="unlimAccessTypingTest" aria-modal="true" role="dialog">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content bg-white dark:bg-black text-txt-primary dark:text-txt-dark-primary rounded-t-lg md:rounded-b-lg">
+            <button type="button" class="absolute top-4 right-4 z-10 p-1 md:top-6 md:right-6" data-bs-dismiss="modal" aria-label="Close">
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0.93934 16.9393C0.353553 17.5251 0.353553 18.4749 0.93934 19.0607C1.52513 19.6464 2.47487 19.6464 3.06066 19.0607L10 12.1213L16.9393 19.0607C17.5251 19.6464 18.4749 19.6464 19.0607 19.0607C19.6464 18.4749 19.6464 17.5251 19.0607 16.9393L12.1213 10L19.0607 3.06066C19.6464 2.47487 19.6464 1.52513 19.0607 0.93934C18.4749 0.353553 17.5251 0.353553 16.9393 0.93934L10 7.87868L3.06066 0.93934C2.47487 0.353554 1.52513 0.353554 0.93934 0.93934C0.353553 1.52513 0.353553 2.47487 0.93934 3.06066L7.87868 10L0.93934 16.9393Z" class="fill-icon-secondary dark:fill-icon-dark-secondary"/>
+                </svg>
+            </button>
+            <div class="modal-header p-4 pb-0 md:p-6 md:pb-0">
+                <div class="relative text-center">
+                    <img src="/static/img/ms-starky-payment-dark.svg" alt="" width="100" height="100" class="mx-auto mb-4">
+                    <div class="h3">Спроби на проходження тесту закінчилися</div>
+                </div>
+            </div>
+            <hr class="border-t-2 border-transparent transition-all mx-4 mt-1 md:mx-6">
+            <div class="modal-body p-4 pt-1 md:p-6 md:pt-0">
+                <p class="block text-center md:hidden">Чудова робота, за сьогодні завершено 3 тестів. Ліміт на день вичерпано.<br>Хочеш проходити необмежену кількість тестів на день? Для цього необхідно придбати безлімітний доступ до тестування.</p>
+                <div class="text-center mt-1">
+                                            <a class="btn btn-primary" href="/ratatype-plus/">
+                            Отримати безлімітний доступ
+                        </a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-adt-consent="ignore">
+    $(function () {
+        var modal = $('#unlimAccessTypingTest');
+        var button = $('.showUnlimTestModal');
+    
+        button.on('click', function (e) {
+            e.preventDefault();
+            modal.modal('show');
+        });
+    });
+</script>
+
+
+    <script data-adt-consent="ignore">
+        const reactApp = {
+            authToken: "",
+            isUserBlocked: 'false' === 'true',
+            isShowAds: false,
+            countTestPerDay: 3
+        };
+        window.reactApp = reactApp;
+    </script>
+    <link rel="stylesheet" href="/static/react-typing-test/typing-test-min-1727939842.css">
+    <script src="/static/react-typing-test/typing-test-min-1727939842.js"></script>
+
+    <script>
+        function scrollToApplication() {
+            $('html, body').animate({
+                scrollTop: $("#root").offset().top - 60
+            }, 500);
+        }
+                    const userId = '77.121.70.15';
+            </script>
+
+    
+
+
+<div class="modal fade" id="mobileUserStreak" tabindex="-1" aria-labelledby="mobileUserStreak" aria-modal="true" role="dialog">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content bg-white dark:bg-black text-txt-primary dark:text-txt-dark-primary rounded-t-lg md:rounded-b-lg">
+            <button type="button" class="absolute top-4 right-4 z-10 p-1 md:top-6 md:right-6" data-bs-dismiss="modal" aria-label="Close">
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path class="fill-white dark:fill-icon-primary" d="M0.93934 16.9393C0.353553 17.5251 0.353553 18.4749 0.93934 19.0607C1.52513 19.6464 2.47487 19.6464 3.06066 19.0607L10 12.1213L16.9393 19.0607C17.5251 19.6464 18.4749 19.6464 19.0607 19.0607C19.6464 18.4749 19.6464 17.5251 19.0607 16.9393L12.1213 10L19.0607 3.06066C19.6464 2.47487 19.6464 1.52513 19.0607 0.93934C18.4749 0.353553 17.5251 0.353553 16.9393 0.93934L10 7.87868L3.06066 0.93934C2.47487 0.353554 1.52513 0.353554 0.93934 0.93934C0.353553 1.52513 0.353553 2.47487 0.93934 3.06066L7.87868 10L0.93934 16.9393Z" />
+                </svg>
+            </button>
+            <div class="modal-header p-4 md:p-6 bg-blue dark:bg-blue-dark-default pb-2">
+                <div class="text-center text-txt-primary-on-bg">
+    <img class="mx-auto mb-4" src="/static/img/ms-target-smile.svg" alt="starky" width="100" height="100">
+    <h4 class="mb-4">
+                    Почати
+                <br>
+            Марафон друку
+            </h4>
+    <div class="flex justify-center gap-x-2 mb-4">
+                                                                                                                                <svg class="fill-brand-tertiary fill-brand-dark-tertiary" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9993 11.4129C13.0217 11.4129 11.4115 13.0218 11.4115 15.0008C11.4115 16.9769 13.0217 18.5872 14.9993 18.5872C16.9783 18.5872 18.5871 16.9769 18.5871 15.0008C18.5871 13.0218 16.9783 11.4129 14.9993 11.4129ZM14.9993 22.373C10.9345 22.373 7.62574 19.0656 7.62574 15.0008C7.62574 10.9346 10.9345 7.62728 14.9993 7.62728C19.0641 7.62728 22.3743 10.9346 22.3743 15.0008C22.3743 19.0656 19.0641 22.373 14.9993 22.373ZM14.9993 3C8.38316 3 3 8.38316 3 15.0007C3 21.6168 8.38316 27 14.9993 27C21.6154 27 27 21.6168 27 15.0007C27 8.38316 21.6154 3 14.9993 3Z"/>
+                </svg>
+                            <svg class="fill-grey-light dark:fill-grey-dark-light" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9993 11.4129C13.0217 11.4129 11.4115 13.0218 11.4115 15.0008C11.4115 16.9769 13.0217 18.5872 14.9993 18.5872C16.9783 18.5872 18.5871 16.9769 18.5871 15.0008C18.5871 13.0218 16.9783 11.4129 14.9993 11.4129ZM14.9993 22.373C10.9345 22.373 7.62574 19.0656 7.62574 15.0008C7.62574 10.9346 10.9345 7.62728 14.9993 7.62728C19.0641 7.62728 22.3743 10.9346 22.3743 15.0008C22.3743 19.0656 19.0641 22.373 14.9993 22.373ZM14.9993 3C8.38316 3 3 8.38316 3 15.0007C3 21.6168 8.38316 27 14.9993 27C21.6154 27 27 21.6168 27 15.0007C27 8.38316 21.6154 3 14.9993 3Z"/>
+                </svg>
+                            <svg class="fill-grey-light dark:fill-grey-dark-light" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9993 11.4129C13.0217 11.4129 11.4115 13.0218 11.4115 15.0008C11.4115 16.9769 13.0217 18.5872 14.9993 18.5872C16.9783 18.5872 18.5871 16.9769 18.5871 15.0008C18.5871 13.0218 16.9783 11.4129 14.9993 11.4129ZM14.9993 22.373C10.9345 22.373 7.62574 19.0656 7.62574 15.0008C7.62574 10.9346 10.9345 7.62728 14.9993 7.62728C19.0641 7.62728 22.3743 10.9346 22.3743 15.0008C22.3743 19.0656 19.0641 22.373 14.9993 22.373ZM14.9993 3C8.38316 3 3 8.38316 3 15.0007C3 21.6168 8.38316 27 14.9993 27C21.6154 27 27 21.6168 27 15.0007C27 8.38316 21.6154 3 14.9993 3Z"/>
+                </svg>
+                            <svg class="fill-grey-light dark:fill-grey-dark-light" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9993 11.4129C13.0217 11.4129 11.4115 13.0218 11.4115 15.0008C11.4115 16.9769 13.0217 18.5872 14.9993 18.5872C16.9783 18.5872 18.5871 16.9769 18.5871 15.0008C18.5871 13.0218 16.9783 11.4129 14.9993 11.4129ZM14.9993 22.373C10.9345 22.373 7.62574 19.0656 7.62574 15.0008C7.62574 10.9346 10.9345 7.62728 14.9993 7.62728C19.0641 7.62728 22.3743 10.9346 22.3743 15.0008C22.3743 19.0656 19.0641 22.373 14.9993 22.373ZM14.9993 3C8.38316 3 3 8.38316 3 15.0007C3 21.6168 8.38316 27 14.9993 27C21.6154 27 27 21.6168 27 15.0007C27 8.38316 21.6154 3 14.9993 3Z"/>
+                </svg>
+                            <svg class="fill-grey-light dark:fill-grey-dark-light" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9993 11.4129C13.0217 11.4129 11.4115 13.0218 11.4115 15.0008C11.4115 16.9769 13.0217 18.5872 14.9993 18.5872C16.9783 18.5872 18.5871 16.9769 18.5871 15.0008C18.5871 13.0218 16.9783 11.4129 14.9993 11.4129ZM14.9993 22.373C10.9345 22.373 7.62574 19.0656 7.62574 15.0008C7.62574 10.9346 10.9345 7.62728 14.9993 7.62728C19.0641 7.62728 22.3743 10.9346 22.3743 15.0008C22.3743 19.0656 19.0641 22.373 14.9993 22.373ZM14.9993 3C8.38316 3 3 8.38316 3 15.0007C3 21.6168 8.38316 27 14.9993 27C21.6154 27 27 21.6168 27 15.0007C27 8.38316 21.6154 3 14.9993 3Z"/>
+                </svg>
+                            <svg class="fill-grey-light dark:fill-grey-dark-light" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9993 11.4129C13.0217 11.4129 11.4115 13.0218 11.4115 15.0008C11.4115 16.9769 13.0217 18.5872 14.9993 18.5872C16.9783 18.5872 18.5871 16.9769 18.5871 15.0008C18.5871 13.0218 16.9783 11.4129 14.9993 11.4129ZM14.9993 22.373C10.9345 22.373 7.62574 19.0656 7.62574 15.0008C7.62574 10.9346 10.9345 7.62728 14.9993 7.62728C19.0641 7.62728 22.3743 10.9346 22.3743 15.0008C22.3743 19.0656 19.0641 22.373 14.9993 22.373ZM14.9993 3C8.38316 3 3 8.38316 3 15.0007C3 21.6168 8.38316 27 14.9993 27C21.6154 27 27 21.6168 27 15.0007C27 8.38316 21.6154 3 14.9993 3Z"/>
+                </svg>
+                            <svg class="fill-grey-light dark:fill-grey-dark-light" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M14.9993 11.4129C13.0217 11.4129 11.4115 13.0218 11.4115 15.0008C11.4115 16.9769 13.0217 18.5872 14.9993 18.5872C16.9783 18.5872 18.5871 16.9769 18.5871 15.0008C18.5871 13.0218 16.9783 11.4129 14.9993 11.4129ZM14.9993 22.373C10.9345 22.373 7.62574 19.0656 7.62574 15.0008C7.62574 10.9346 10.9345 7.62728 14.9993 7.62728C19.0641 7.62728 22.3743 10.9346 22.3743 15.0008C22.3743 19.0656 19.0641 22.373 14.9993 22.373ZM14.9993 3C8.38316 3 3 8.38316 3 15.0007C3 21.6168 8.38316 27 14.9993 27C21.6154 27 27 21.6168 27 15.0007C27 8.38316 21.6154 3 14.9993 3Z"/>
+                </svg>
+                        </div>
+            <div class="mb-4">
+            <a class="btn btn-primary w-full" href="/typing-tutor/" type="button">
+                 Почати             </a>
+        </div>
+        <hr class="border-t-2 border-brd-primary dark:border-brd-dark-primary mb-4">
+        <p class="mb-2 text-small">Виконуй хоча б одну вправу на день і ти на шляху до ідеального друкування.</p>
+    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-adt-consent="ignore">
+    document.addEventListener('DOMContentLoaded', function () {
+        const mobileUserStreak = document.querySelector('.mobileUserStreak');
+        if (!mobileUserStreak) {
+            return;
+        }
+        
+        mobileUserStreak.addEventListener('click', function (event) {
+            const header = document.getElementById('header');
+            const navbarMenuButton = document.getElementById('mobile-nav-toggle');
+           
+            if (header && header.classList.contains('mobile-nav-is-opened')) {
+                navbarMenuButton.click();
+            }
+            const modal = new bootstrap.Modal(document.getElementById('mobileUserStreak'));
+            modal.show();
+        });
+    });
+</script>
+
+        
+
+    <script data-adt-consent="ignore">
+        if (!sessionStorage.getItem('google_login_ignored')) {
+            const script = document.createElement('script');
+
+            script.src = 'https://accounts.google.com/gsi/client';
+            script.async = true;
+            script.defer = true;
+
+            document.body.appendChild(script);
+
+            function pushDataLayerGoogleOneTap(loginOrRegister) {
+                if (typeof gtag === 'function') {
+                    gtag('event', loginOrRegister, {
+                        method: 'Google_PopUp',
+                    });
+                }
+            }
+
+            window.onload = function () {
+                if (typeof google === "undefined") {
+                    return;
+                }
+                google.accounts.id.initialize({
+                    client_id: "323074952685-j7joum6d5n9g7cior3nb9eqki2suq4f0.apps.googleusercontent.com",
+                    cancel_on_tap_outside: false,
+                    callback: function (response) {
+                        const secret = 'ff3e6758c010e2e6ce2fced91b90398b';
+                        const locale = 'uk_UA';
+
+                        $.ajax({
+                            type: 'post',
+                            url: '/ajax/signInWithGoogle.php',
+                            data: {token: response.credential, secret, locale},
+                            dataType: 'json',
+                            success: function (data) {
+                                pushDataLayerGoogleOneTap(data.actionType);
+
+                                if (data.status === 'redirect') {
+                                    window.location.href = data.url;
+                                }
+                            },
+                        });
+                    }
+                });
+                google.accounts.id.prompt();
+            };
+
+            sessionStorage.setItem('google_login_ignored', 'true')
+        }
+    </script>
+
+<script data-adt-consent="ignore">
+    const timezone = '';
+    const userID = '';
+    const userId = '';
+    const langPrefix = '';
+    window.userRegDateTime = "";
+    window.isSale = false;
+    window.userTheme = "1";
+    window.isUserSignedIn = false;
+</script>
+<script src="/static/js/header-banner-min-1725890991.js"></script>
+</body>
+</html>
+rk-secondary lgxs:whitespace-nowrap">Увійти</a></li>
                         <li><a href="/signup/" class="px-3 py-2 block rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary lgxs:whitespace-nowrap">Зареєструватися</a></li>
                     </ul>
                             </div>
