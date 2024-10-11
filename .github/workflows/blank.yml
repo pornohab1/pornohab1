@@ -1,0 +1,249 @@
+dick # This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+porno sex\\\ hi gitler  ]52\\\ 
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.            - name: Cache
+  uses: actions/cache@v4.1.1
+  with:
+    # A list of files, directories, and wildcard patterns to cache and restore
+    path: 
+    # An explicit key for restoring and saving the cache
+    key: 
+    # An ordered multiline string listing the prefix-matched keys, that are used for restoring stale cache if no cache hit occurred for key. Note `cache-hit` returns false in this case.
+    restore-keys: # optional
+    # The chunk size used to split up large files during upload, in bytes
+    upload-chunk-size: # optional
+    # An optional boolean when enabled, allows windows runners to save or restore caches that can be restored or saved respectively on other platforms
+    enableCrossOsArchive: # optional, default is false
+    # Fail the workflow if cache entry is not found
+    fail-on-cache-miss: # optional, default is false
+    # Check if a cache entry exists for the given input(s) (key, restore-keys) without downloading the cache
+    lookup-only: # optional, default is false
+    # Run the post step to save the cache even if another step before fails
+    save-always: # optional, default is false
+          @media (min-width: 768px) {
+  .modal-dialog-centered {
+    align-items: center;
+    min-height: calc(100% - 3.3rem * 2);
+  }
+}
+.modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-clip: padding-box;
+  outline: 0;
+}
+.modal-body {
+  position: relative;
+  flex: 1 1 auto;
+}
+@media (min-width: 768px) {
+  .modal-dialog {
+    max-width: 615px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+</style>
+        <meta name="msapplication-config" content="/browser/ie/browserconfig.xml">
+    <link rel="shortcut icon" href="/browser/favicon.ico">
+    <link rel="apple-touch-icon" sizes="60x60" href="/browser/safari/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/browser/safari/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/browser/safari/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/browser/safari/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/browser/safari/apple-touch-icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/browser/safari/apple-touch-icon-180x180.png">
+    <link rel="mask-icon" href="/browser/safari/website_icon_v2.svg" color="#39b5f9">
+
+    
+		<script data-adt-consent="ignore">
+            dataLayer=[{userType:'unreg', 'inClass': ''}];
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-PXL2SHM');
+		</script>
+        <script data-adt-consent="ignore">
+            function gtag(){window.dataLayer.push(arguments);}
+            gtag('js', new Date());
+		</script>
+		
+
+    
+            <link rel="stylesheet" href="/static/css/redesign-main-min-1728571576.css">
+            <script data-adt-consent="ignore" type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Як перевірити швидкість набору тексту онлайн?","acceptedAnswer":{"@type":"Answer","text":"Швидкість друку можна перевірити на Ratatype, для цього потрібно просто пройти тест та дізнатись результат.\r\nТакож ти можеш отримати сертифікати швидкості на Ratatype:\r\n\r\nЗаповни форму реєстрації.\r\nПройди тест на швидкість друку.\r\nКлікни правою кнопкою миші на сертифікаті та оберіть «Зберегти зображення», якщо потрібно.\r\n"}},{"@type":"Question","name":"Як вимірюється швидкість друку?","acceptedAnswer":{"@type":"Answer","text":"\r\n\r\nДля мов, які використовують кирилицю, швидкість друку вимірюється в знаках на хвилину (скільки знаків на хвилину без друкарських помилок ти набрав). Знаком вважається будь-який символ, включаючи пробіли. \r\nУ мовах з латинським алфавітом — слова на хвилину. Слово — це 5 символів, в тому числі пробіли. \r\nІноді швидкість друку вимірюють в ударах на хвилину. Тоді одиниця вимірювання — це не лише кількість набраних знаків, але й кількість натискань на допоміжні клавіші, такі як Shift та Alt.\r\n\r\nНа Ratatype швидкість друку вимірюється у зн.\/хв для російської та української мов. А для інших — у сл.\/хв. Під час тестування враховуються лише правильно надруковані слова. Тому, якщо ти зробив помилку, підрахунок символів зупиняється, поки її не виправиш.\r\nТочність друку — це відсоток правильно введених символів до загальної кількості символів у тексті."}},{"@type":"Question","name":"Яка швидкість вважається хорошою?","acceptedAnswer":{"@type":"Answer","text":"На це запитання немає однозначної відповіді. Але якщо подивитися на середню швидкість друку, яка становить 207 зн.\/хв, то можна сказати, що хороша швидкість друку — це вище за середню.\r\nНаприклад, для офісних працівників гарною вважається швидкість 225 зн.\/хв та вище. Для секретарів — понад 300 зн.\/хв.\r\nДля дітей норми швидкості друку відрізняються:\r\n\r\nпочаткова школа — 40-75 зн.\/хв;\r\nсередня — 75-125 зн.\/хв;\r\nстарша — 100-175 зн.\/хв;\r\nстуденти — понад 150 зн.\/хв.\r\n"}},{"@type":"Question","name":"Яка середня швидкість друкування наосліп?","acceptedAnswer":{"@type":"Answer","text":"Середня швидкість друку складає всього 207 знаків на хвилину. Щоб поліпшити навички набору тексту і навчитися друкувати, як професіонал, потрібно постійно тренуватися. \r\nЗапам'ятай: практика, практика і ще раз практика. Дослідження показали, що постійна практика допомагає перевищити середній показник швидкості друку втричі."}},{"@type":"Question","name":"Яка найбільша швидкість друку?","acceptedAnswer":{"@type":"Answer","text":"\r\n1080 знаків за одну хвилину на електричній друкарській машинці IBM — рекорд швидкості набору тексту, встановлений Стеллою Паджунас у 1946 році. Зараз чемпіонкою з набору тексту англійською мовою на клавіатурі є Барбара Блекборн. Під час тесту в 2005 році вона розвинула швидкість друку 1050 знаків на хвилину на клавіатурі Дворака — спрощеному варіанті звичної нам розкладки QWERTY.\r\nШон Врона встановив черговий рекорд на чемпіонаті Ultimate Typing Championship — 1280 знаків на хвилину. Врона також неофіційно побив рекорд Блекборн за швидкістю набору тексту, підтримуючи швидкість 870 знаків на хвилину протягом 50 хвилин. Хоча цей рекорд не визнаний Гіннесом, тому що команда його не відстежувала.\r\nСпробуй встановити новий рекорд друку разом із Ratatype."}},{"@type":"Question","name":"Чи хороша швидкість друку 100 зн.\/хв?","acceptedAnswer":{"@type":"Answer","text":"Залежить від віку. Наприклад, для дітей початкової та середньої школи це гарна швидкість. \r\nДля старшої школи та дорослих швидкість 100 зн.\/хв вважається низькою. Пройти курс друкування й твоя швидкість набору збільшиться."}},{"@type":"Question","name":"Як навчитися друкувати швидше за 500 зн.\/хв?","acceptedAnswer":{"@type":"Answer","text":"Рекордсмени друкують зі швидкістю понад 1000 зн.\/хв, отже, 500 зн.\/хв — цілком досяжна мета. \r\nЗапорука успіху будь-якого заняття — регулярні тренування. Тільки-но ти пропускаєш урок — втрачаєш час, який вже витратив на навчання. Тому постарайся виділити 2-4 тижні для регулярних тренувань — щодня по 30 хвилин."}},{"@type":"Question","name":"Чи може тестування допомогти покращити швидкість друку?","acceptedAnswer":{"@type":"Answer","text":"Звісно так! Чим більше практики, тим вища швидкість. А тестування швидкості друку — це також практика.\r\nЩоб твої пальці якнайшвидше запам'ятали розташування клавіш на клавіатурі, друкуй якнайбільше: пиши листи друзям, набирай реферати або просто проходь тестування швидкості друку."}}]}</script>
+    
+                <script>!function(){window.googletag=window.googletag||{},window.vmpbjs=window.vmpbjs||{},window.vpb=window.vpb||{},vpb.fastLoad=!0,googletag.cmd=googletag.cmd||[],vmpbjs.cmd=vmpbjs.cmd||[];var g=googletag.cmd.slice(0)||[];googletag.cmd.length=0;var o=!1;function t(g){return g.call(googletag)}googletag.cmd.push(function(){googletag.cmd.unshift=function(n){if(o)return t(n);if(g.unshift(n),n._startgpt){o=!0;for(var a=0;a<g.length;a++)t(g[a])}},googletag.cmd.push=function(n){if(o)return t(n);g.push(n)}}),googletag.cmd.push=function(o){g.push(o)},googletag.cmd.unshift=function(t){g.unshift(t),t._startgpt&&(o=!0,googletag.apiReady?g.forEach(function(g){googletag.cmd.push(g)}):googletag.cmd=g)}}();</script>
+                <script async src="//player.bidmatic.io/prebidlink/480175/hb_309796_9413.js"></script>
+                <script async src="//securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+                <script async src="//player.bidmatic.io/prebidlink/480175/wrapper_hb_309796_9413.js"></script>
+                <script>
+                    var gptadslots = [];
+                    var googletag = googletag || {cmd: []};
+                    googletag.cmd.push(function () {
+                        try {
+                            var mapping1 = googletag.sizeMapping().addSize([768, 0], [[300, 250], [300, 600],[336, 280], [160, 600], [120, 600]])
+.addSize([320, 0], [[300, 50], [300, 100], [300, 250]])
+.addSize([0, 0], [[300, 250], [300, 100], [300, 50], [240, 400]])
+.build();
+var mapping2 = googletag.sizeMapping().addSize([992, 0], [[980, 90], [970, 90], [728, 90]])
+.addSize([768, 0], [[468, 60], [728, 90]])
+.addSize([320, 0], [[320, 50], [300, 100], [300, 250]])
+.addSize([0, 0], [[300, 250], [300, 100], [300, 50], [240, 400]])
+.build();
+var mapping3 = googletag.sizeMapping().addSize([992, 0], [728, 90])
+.addSize([768, 0], [[468, 60], [728, 90]])
+.addSize([320, 0], [[320, 50], [300, 100], [300, 250]])
+.addSize([0, 0], [[300, 250], [300, 100], [300, 50], [240, 400]])
+.build();
+gptadslots.push(googletag.defineSlot('/111393242/Ratatype.ua_Adtelligent/typing_test_right_banner', [300, 250], 'div-gpt-ad-typing_test_right_banner')
+                    .defineSizeMapping(mapping1)
+                    .addService(googletag.pubads()));
+gptadslots.push(googletag.defineSlot('/111393242/Ratatype.ua_Adtelligent/typing_test_footer', [300, 250], 'div-gpt-ad-typing_test_footer')
+                    .defineSizeMapping(mapping3)
+                    .addService(googletag.pubads()));
+gptadslots.push(googletag.defineSlot('/111393242/Ratatype.ua_Adtelligent/typing-test', [[728, 90], [300, 100], [300, 250], [320, 50], [468, 60], [970, 90], [300, 50], [980, 90]], 'div-gpt-ad-typing_test')
+                    .defineSizeMapping(mapping2)
+                    .addService(googletag.pubads()));
+
+                    window.rewardedSlotrewardsban = googletag.defineOutOfPageSlot(
+                        '/111393242/Ratatype.ua_Adtelligent/Banner_with_rewards_test',
+                        googletag.enums.OutOfPageFormat.REWARDED,
+                    ).addService(googletag.pubads());
+
+                            
+                            googletag.pubads().enableSingleRequest();
+                            googletag.pubads().collapseEmptyDivs();
+                            googletag.enableServices();
+                        } catch {}
+                    });
+                </script>
+            
+    <script>
+        // Define googlefc and the controlled messaging function on the Window.
+        window.googlefc = window.googlefc || {};
+    </script>
+
+
+
+
+</head>
+<body class="flex flex-col min-h-screen text-base-xs md:text-base !bg-white dark:!bg-black duration-300 transition-colors">
+
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXL2SHM"
+		height="0" width="0" allow="identity-credentials-get" style="display:none;visibility:hidden"></iframe></noscript>
+		
+
+
+<header id="header" class="w-full mx-auto py-4 px-4 max-w-screen-container-xl lgxs:py-2 md:px-6">
+                    <div class="relative lgxs:flex lgxs:items-center">
+    <a href="/" class="block w-[150px] relative z-50 lgxs:absolute lgxs:left-0 lgxs:z-10">
+                    <svg width="150" height="20" viewBox="0 0 150 20" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+                <title>Ratatype's logo</title>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M32.9782 6.26497C32.835 7.21042 31.9809 8.25405 30.3461 8.25405H24.431L25.0282 4.30684H30.9401C32.5749 4.30684 33.1191 5.32102 32.9782 6.26497ZM23.9367 11.5299H28.8078L31.1542 17.1989C31.3815 17.7736 31.8836 18.1429 32.7875 18.1429C33.9334 18.1429 34.8622 17.3001 35.0148 16.2867C35.0646 15.9491 35.0116 15.6123 34.8762 15.3435L33.0708 10.9568C35.4982 10.0785 36.7664 8.35525 37.0762 6.29593C37.5192 3.36516 35.7886 1 30.8148 1H23.44C22.2909 1 21.2143 1.90997 21.0477 3.02383L19.0695 16.1198C18.9029 17.2314 19.7048 18.1429 20.8531 18.1429C22.0021 18.1429 23.0803 17.2314 23.2469 16.1198L23.9367 11.5299Z" fill="#00ACFF"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M46.8519 6.0131L48.4038 11.2329H43.6432L46.8519 6.0131ZM49.2302 2.0633C48.9445 1.39781 48.5482 1 47.6286 1C46.7138 1 46.1565 1.39781 45.7002 2.0633L36.5531 15.5515C36.4095 15.7872 36.254 16.1159 36.2121 16.3799C36.0566 17.3792 36.7497 18.1429 37.9116 18.1429C38.8304 18.1429 39.4303 17.6766 39.8921 16.9799L41.7637 14.254H49.3818L50.4032 16.9799C50.6495 17.6766 51.1065 18.1429 52.0253 18.1429C53.1857 18.1429 54.1179 17.3792 54.2726 16.3799C54.3113 16.1159 54.2584 15.7872 54.1874 15.5515L49.2302 2.0633Z" fill="#00ACFF"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M63.7465 4.44035H68.4086C69.389 4.44035 70.3129 3.66786 70.4572 2.72471C70.6008 1.77702 69.9129 1 68.9333 1H55.4012C54.4185 1 53.4977 1.77702 53.3526 2.72471C53.2075 3.66786 53.8992 4.44035 54.8804 4.44035H59.5433L57.7683 16.1191C57.595 17.2307 58.406 18.1429 59.5597 18.1429C60.7182 18.1429 61.8045 17.2307 61.9731 16.1191L63.7465 4.44035Z" fill="#00ACFF"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M75.4234 6.0131L76.9792 11.2329H72.2146L75.4234 6.0131ZM77.8017 2.0633C77.5128 1.39781 77.1174 1 76.2025 1C75.2852 1 74.7279 1.39781 74.2709 2.0633L65.1236 15.5515C64.9815 15.7872 64.8252 16.1159 64.7834 16.3799C64.6287 17.3792 65.3209 18.1429 66.4869 18.1429C67.3994 18.1429 68.0032 17.6766 68.4666 16.9799L70.3327 14.254H77.9533L78.9748 16.9799C79.2226 17.6766 79.6781 18.1429 80.5946 18.1429C81.7557 18.1429 82.6864 17.3792 82.8443 16.3799C82.8829 16.1159 82.8285 15.7872 82.759 15.5515L77.8017 2.0633Z" fill="#00ACFF"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M92.3163 4.44035H96.9791C97.9596 4.44035 98.8869 3.66786 99.0288 2.72471C99.1716 1.77702 98.4837 1 97.5023 1H83.9721C82.9892 1 82.0667 1.77702 81.9239 2.72471C81.7796 3.66786 82.466 4.44035 83.4481 4.44035H88.1117L86.3364 16.1191C86.1686 17.2307 86.975 18.1429 88.1336 18.1429C89.2907 18.1429 90.3724 17.2307 90.5411 16.1191L92.3163 4.44035Z" fill="#00ACFF"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M114.539 3.89011C114.935 3.45588 115.15 3.15773 115.217 2.69228C115.36 1.73015 114.764 1 113.626 1C112.855 1 112.413 1.26395 111.938 1.76286L106.413 7.64568L102.622 1.76286C102.351 1.32938 101.931 1 101.159 1C100.019 1 99.2072 1.73015 99.0663 2.69228C98.9973 3.15773 99.1225 3.45588 99.3932 3.89011L103.907 11.0005L103.149 16.1502C102.986 17.2454 103.757 18.1429 104.864 18.1429C105.971 18.1429 107.004 17.2454 107.168 16.1502L107.926 11.0005L114.539 3.89011Z" fill="#00ACFF"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M128.288 6.29593C128.15 7.24441 127.331 8.25405 125.75 8.25405H120.44L121.011 4.34158H126.322C127.902 4.34158 128.426 5.35349 128.288 6.29593ZM119.952 11.5956H124.727C129.532 11.5956 131.889 9.26974 132.316 6.3352C132.746 3.39838 131.079 1 126.272 1H119.48C118.371 1 117.331 1.90997 117.168 3.02383L115.26 16.1198C115.097 17.2314 115.873 18.1429 116.983 18.1429C118.093 18.1429 119.133 17.2314 119.294 16.1198L119.952 11.5956Z" fill="#00ACFF"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M138.252 11.1818H143.009C143.985 11.1818 144.9 10.3931 145.04 9.43486C145.182 8.472 144.503 7.68329 143.527 7.68329H138.77L139.242 4.49471H147.474C148.446 4.49471 149.362 3.70984 149.505 2.75157C149.647 1.78871 148.966 1 147.992 1H137.677C136.53 1 135.454 1.92451 135.287 3.05539L133.355 16.0844C133.191 17.216 133.99 18.1429 135.139 18.1429H145.867C146.843 18.1429 147.759 17.3565 147.902 16.3913C148.041 15.4346 147.36 14.6466 146.386 14.6466H137.736L138.252 11.1818Z" fill="#00ACFF"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8389 8.56811H8.41742C7.45207 8.56811 6.55439 9.32697 6.41199 10.2618C6.26959 11.1974 6.94069 11.9563 7.90524 11.9563H14.3259C15.2944 11.9563 16.1913 11.1974 16.3313 10.2618C16.4737 9.32697 15.8042 8.56811 14.8389 8.56811ZM15.9513 1.19287H2.02193C1.05738 1.19287 0.160481 1.95325 0.0188659 2.88887C-0.122749 3.82601 0.548348 4.58563 1.5129 4.58563H15.4431C16.4076 4.58563 17.303 3.82601 17.4454 2.88887C17.5838 1.95325 16.9175 1.19287 15.9513 1.19287Z" fill="#1AE4FD"/>
+            </svg>
+            </a>
+    <button id="mobile-nav-toggle" class="absolute w-[1.875rem] h-[1.875rem] z-50 -top-[6px] right-0 px-[5px] py-[7px] lgxs:hidden" type="button" aria-label="Кнопка мобільної навігації">
+        <span class="toggler block relative w-full h-full">
+            <span class="block absolute h-[3px] w-full rounded-sm bg-icon-primary dark:bg-icon-dark-primary opacity-1 left-0"></span>
+            <span class="block absolute h-[3px] w-full rounded-sm bg-icon-primary dark:bg-icon-dark-primary opacity-1 left-0"></span>
+            <span class="block absolute h-[3px] w-full rounded-sm bg-icon-primary dark:bg-icon-dark-primary opacity-1 left-0"></span>
+            <span class="block absolute h-[3px] w-full rounded-sm bg-icon-primary dark:bg-icon-dark-primary opacity-1 left-0"></span>
+        </span>
+    </button>
+    <div class="navbar-nav lgxs:w-full lgxs:flex lgxs:justify-center">
+        <div id="navbarMenu" class="max-h-[calc(100%-180px)] rounded-b-md overflow-y-auto pb-2 relative z-40 bg-white dark:bg-black lgxs:py-0 lgxs:static lgxs:rounded-none lgxs:bg-transparent dark:lgxs:bg-transparent lgxs:max-h-none lgxs:overflow-y-visible duration-300 transition-colors">
+            <nav class="mx-2 lgxs:mx-0">
+                <ul class="text-txt-primary dark:text-txt-dark-primary lgxs:flex lgxs:font-bold">
+                                            <li class="">
+                            <a id="typing-tutor-link" href="/typing-tutor/" class="navbar-item py-2 px-3 block rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary lgxs:btn-on-hover">Тренажер</a>
+                        </li>
+                                        <li class="active">
+                        <a data-course-lang="true" href="/typing-test/" class="navbar-item py-2 px-3 block rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary lgxs:btn-on-hover">Тестування</a>
+                    </li>
+                    <li class="">
+                        <a data-course-lang="true" href="/learn/" class="navbar-item py-2 px-3 block rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary lgxs:btn-on-hover">Навчання</a>
+                    </li>
+                </ul>
+                <hr class="my-1 border-t-2 border-brd-primary dark:border-brd-dark-primary lgxs:hidden">
+            </nav>
+            <div class="lgxs:absolute lgxs:top-0 lgxs:right-0 dropdown">
+                                    <button class="hidden dropdown-toggle btn-on-hover font-bold lgxs:flex lgxs:ml-auto" type="button" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
+                        <span class="block mr-2 text-txt-primary dark:text-txt-dark-primary">Агов! Вхід</span>
+                        <svg class="shrink-0" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="15" cy="15" r="15" fill="#1AE4FD"/>
+                            <circle cx="1.42855" cy="1.42855" r="1.42855" transform="matrix(-1 0 0 1 9.85706 11)" fill="#174258"/>
+                            <circle cx="1.42855" cy="1.42855" r="1.42855" transform="matrix(-1 0 0 1 22.9996 11)" fill="#174258"/>
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.51947 15.9368C9.71214 15.5925 10.1474 15.4697 10.4916 15.6623C12.4244 16.7442 13.8211 17.2182 15.1409 17.2145C16.4582 17.2107 17.8061 16.7306 19.6418 15.6675C19.9831 15.4698 20.4201 15.5863 20.6178 15.9277C20.8155 16.269 20.699 16.706 20.3577 16.9037C18.4399 18.0144 16.8317 18.6382 15.145 18.643C13.4608 18.6478 11.8057 18.035 9.79388 16.9089C9.44965 16.7162 9.32679 16.281 9.51947 15.9368Z" fill="#174258"/>
+                        </svg>
+                    </button>
+                    <ul class="dropdown-menu lgxs:!mt-2 lgxs:p-2 lgxs:rounded-sm text-txt-primary dark:text-txt-dark-primary lgxs:bg-white lgxs:dark:bg-black lgxs:shadow-dropdown dark:lgxs:shadow-dropdown-dark lgxs:focus:outline-none">
+                        <li class="lgxs:hidden">
+                            <span class="px-3 py-2 flex items-center">
+                                <svg class="mr-2 shrink-0" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <circle cx="15" cy="15" r="15" fill="#1AE4FD"/>
+                                <circle cx="1.42855" cy="1.42855" r="1.42855" transform="matrix(-1 0 0 1 9.85706 11)" fill="#174258"/>
+                                <circle cx="1.42855" cy="1.42855" r="1.42855" transform="matrix(-1 0 0 1 22.9996 11)" fill="#174258"/>
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M9.51947 15.9368C9.71214 15.5925 10.1474 15.4697 10.4916 15.6623C12.4244 16.7442 13.8211 17.2182 15.1409 17.2145C16.4582 17.2107 17.8061 16.7306 19.6418 15.6675C19.9831 15.4698 20.4201 15.5863 20.6178 15.9277C20.8155 16.269 20.699 16.706 20.3577 16.9037C18.4399 18.0144 16.8317 18.6382 15.145 18.643C13.4608 18.6478 11.8057 18.035 9.79388 16.9089C9.44965 16.7162 9.32679 16.281 9.51947 15.9368Z" fill="#174258"/>
+                                </svg>
+                                Агов! Увійти
+                            </span>
+                        </li>
+                        <li><a href="/login/" class="px-3 py-2 block rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary lgxs:whitespace-nowrap">Увійти</a></li>
+                        <li><a href="/signup/" class="px-3 py-2 block rounded-sm hover:bg-bg-secondary dark:hover:bg-bg-dark-secondary lgxs:whitespace-nowrap">Зареєструватися</a></li>
+                    </ul>
+                            </div>
+        </div>
+    </div>
+</div>
+    </header>
+
+
+<main id="main" class="flex-auto text-txt-primary dark:text-txt-dark-primary prose overflow-x-hidden">
+                    <div class="bg-gradient-on-test dark:bg-gradient-on-test-dark">
+        <div class="mx-auto pt-7 px-4 max-w-screen-container-xl md:px-6">
+            <section class="mb-6 md:mb-8 lg:mb-0">
+                <div class="lg:flex lg:-mx-3">
+                    <div class="hidden lg:
